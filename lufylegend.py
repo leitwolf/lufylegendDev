@@ -257,7 +257,8 @@ class LufylegendListener(sublime_plugin.EventListener):
         path=a[1]
         # remove prev
         global USER_DEFINITION_LIST
-        for item in USER_DEFINITION_LIST:
+        for i in range(len(USER_DEFINITION_LIST)-1,0,-1):
+            item=USER_DEFINITION_LIST[i]
             if item[2]==path:
                 USER_DEFINITION_LIST.remove(item)
         USER_DEFINITION_LIST.extend(arr)

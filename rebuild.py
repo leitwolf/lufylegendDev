@@ -35,13 +35,13 @@ def rebuild(dir,saveDir):
     parseDir(dir)
     return USER_DEFINITIONS
 
-def rebuildSingle(file,saveDir):	
+def rebuildSingle(filePath,saveDir):	
     global USER_DEFINITIONS
     global SAVE_DIR
     USER_DEFINITIONS=[]
     SAVE_DIR=saveDir
-    parseJs(file)
-    return [USER_DEFINITIONS,file]
+    parseJs(filePath)
+    return [USER_DEFINITIONS,filePath]
 
 def parseDir(dir):
     for item in os.listdir(dir):
@@ -52,9 +52,9 @@ def parseDir(dir):
             if helper.checkFileExt(path,"js"):
                 parseJs(path)
 
-def parseJs(file):
+def parseJs(filePath):
     # remove all file
-    md5filename=helper.md5(file)
+    md5filename=helper.md5(filePath)
     saveDir=os.path.join(SAVE_DIR,md5filename)
     deleteFiles(saveDir,saveDir)
     # create dir
@@ -62,8 +62,8 @@ def parseJs(file):
         os.makedirs(saveDir)
     # add filepath to filepath.txt for debug
     filepath=os.path.join(saveDir,"filepath.txt")
-    helper.writeFile(filepath,file)
-    f=codecs.open(file,"r","utf-8")
+    helper.writeFile(filepath,filePath)
+    f=codecs.open(filePath,"r","utf-8")
     lineNum=0
     while True:
         line=f.readline()
@@ -72,30 +72,37 @@ def parseJs(file):
             # function
             m=re.match("^\s*function\s*(\w+)\s*\((.*)\)",line)
             m2=re.match("^\s*(\w+)\:\s*function\s*\((.*)\)",line)
+            m3=re.match("^\s*(\w+\.\w+)\s*=\s*function\s*\((.*)\)",line)
             if m2:
                 m=m2
+            elif m3:
+                m=m3
             if m:
                 handleFunction(saveDir,"",m.group(1),m.group(2))
-                handleDefinition(m.group(1),file,lineNum)
+                handleDefinition(m.group(1),filePath,lineNum)
                 continue            
             m=re.match("^\s*(\w+)\.prototype\.(\w+)\s*=\s*function\s*\((.*)\)",line)
             if m:
                 handleFunction(saveDir,m.group(1),m.group(2),m.group(3))
-                handleDefinition(m.group(2),file,lineNum)
+                handleDefinition(m.group(2),filePath,lineNum)
                 continue
             # vars
             m=re.match("^\s*var\s+(\w+)",line)
             if m:
                 handleVar(saveDir,m.group(1))
-                handleDefinition(m.group(1),file,lineNum)
+                handleDefinition(m.group(1),filePath,lineNum)
                 continue
         else:
             break
     f.close()
     
-def handleDefinition(keyword,file,lineNum):
+def handleDefinition(keyword,filePath,lineNum):
     global USER_DEFINITIONS
-    USER_DEFINITIONS.append([keyword,file,file,lineNum])
+    dot=keyword.rfind(".")
+    if dot!=-1:
+        keyword2=keyword[(dot+1):]
+        handleDefinition(keyword2,filePath,lineNum)
+    USER_DEFINITIONS.append([keyword,filePath,filePath,lineNum])
 
 def handleFunction(saveDir,classname,funcName,params):
     arr=handleParams(params)
@@ -131,7 +138,7 @@ def handleVar(saveDir,varName):
 def handleParams(params):
     args=[]
     for item in params.split(","):
-        str1=re.sub("\s","",item)
+        str1=re.sub("\W","",item)
         if str1!="":
             args.append(str1)
     args2=[]
