@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[event]]></content>
+    <tabTrigger>event</tabTrigger>
+    <scope>source.js</scope>
+    <description>LLoader</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loadtype]]></content>
+    <tabTrigger>loadtype</tabTrigger>
+    <scope>source.js</scope>
+    <description>LLoader</description>
+</snippet>

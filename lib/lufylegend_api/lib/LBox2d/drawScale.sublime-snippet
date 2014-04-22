@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[drawScale]]></content>
+    <tabTrigger>drawScale</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBox2d</description>
+</snippet>

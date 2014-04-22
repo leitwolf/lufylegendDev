@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[mouseList]]></content>
+    <tabTrigger>mouseList</tabTrigger>
+    <scope>source.js</scope>
+    <description>LInteractiveObject</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_showLayer]]></content>
+    <tabTrigger>_showLayer</tabTrigger>
+    <scope>source.js</scope>
+    <description>LScrollbar</description>
+</snippet>

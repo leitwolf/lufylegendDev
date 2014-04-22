@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onsoundcomplete]]></content>
+    <tabTrigger>onsoundcomplete</tabTrigger>
+    <scope>source.js</scope>
+    <description>LMedia</description>
+</snippet>

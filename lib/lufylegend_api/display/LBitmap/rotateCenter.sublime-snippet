@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[rotateCenter]]></content>
+    <tabTrigger>rotateCenter</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBitmap</description>
+</snippet>

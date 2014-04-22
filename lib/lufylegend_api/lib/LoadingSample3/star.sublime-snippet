@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[star]]></content>
+    <tabTrigger>star</tabTrigger>
+    <scope>source.js</scope>
+    <description>LoadingSample3</description>
+</snippet>

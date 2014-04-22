@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[screenX]]></content>
+    <tabTrigger>screenX</tabTrigger>
+    <scope>source.js</scope>
+    <description>LoadingSample1</description>
+</snippet>

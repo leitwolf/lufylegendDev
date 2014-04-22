@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[closeColor]]></content>
+    <tabTrigger>closeColor</tabTrigger>
+    <scope>source.js</scope>
+    <description>LWindow</description>
+</snippet>

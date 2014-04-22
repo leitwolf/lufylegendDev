@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loopIndex]]></content>
+    <tabTrigger>loopIndex</tabTrigger>
+    <scope>source.js</scope>
+    <description>LMedia</description>
+</snippet>

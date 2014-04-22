@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[layer]]></content>
+    <tabTrigger>layer</tabTrigger>
+    <scope>source.js</scope>
+    <description>LComboBox</description>
+</snippet>

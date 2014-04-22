@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[frameList]]></content>
+    <tabTrigger>frameList</tabTrigger>
+    <scope>source.js</scope>
+    <description>LInteractiveObject</description>
+</snippet>

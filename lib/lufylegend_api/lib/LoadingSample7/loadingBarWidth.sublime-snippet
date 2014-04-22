@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loadingBarWidth]]></content>
+    <tabTrigger>loadingBarWidth</tabTrigger>
+    <scope>source.js</scope>
+    <description>LoadingSample7</description>
+</snippet>

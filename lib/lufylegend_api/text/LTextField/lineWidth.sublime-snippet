@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[lineWidth]]></content>
+    <tabTrigger>lineWidth</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTextField</description>
+</snippet>

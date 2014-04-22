@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_maskH]]></content>
+    <tabTrigger>_maskH</tabTrigger>
+    <scope>source.js</scope>
+    <description>LScrollbar</description>
+</snippet>

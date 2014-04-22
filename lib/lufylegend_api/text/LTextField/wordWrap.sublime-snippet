@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[wordWrap]]></content>
+    <tabTrigger>wordWrap</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTextField</description>
+</snippet>

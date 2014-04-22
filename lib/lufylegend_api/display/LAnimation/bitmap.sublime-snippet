@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[bitmap]]></content>
+    <tabTrigger>bitmap</tabTrigger>
+    <scope>source.js</scope>
+    <description>LAnimation</description>
+</snippet>

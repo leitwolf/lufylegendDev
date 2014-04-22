@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_width]]></content>
+    <tabTrigger>_width</tabTrigger>
+    <scope>source.js</scope>
+    <description>LScrollbar</description>
+</snippet>

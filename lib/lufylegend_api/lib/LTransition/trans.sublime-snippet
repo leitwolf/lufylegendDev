@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[trans]]></content>
+    <tabTrigger>trans</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTransition</description>
+</snippet>

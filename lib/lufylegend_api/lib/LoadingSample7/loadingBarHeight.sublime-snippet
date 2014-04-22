@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loadingBarHeight]]></content>
+    <tabTrigger>loadingBarHeight</tabTrigger>
+    <scope>source.js</scope>
+    <description>LoadingSample7</description>
+</snippet>

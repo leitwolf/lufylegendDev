@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[signColor]]></content>
+    <tabTrigger>signColor</tabTrigger>
+    <scope>source.js</scope>
+    <description>LWindow</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[root]]></content>
+    <tabTrigger>root</tabTrigger>
+    <scope>source.js</scope>
+    <description>LQuadTree</description>
+</snippet>

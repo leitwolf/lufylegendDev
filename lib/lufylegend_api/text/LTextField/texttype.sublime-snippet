@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[texttype]]></content>
+    <tabTrigger>texttype</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTextField</description>
+</snippet>

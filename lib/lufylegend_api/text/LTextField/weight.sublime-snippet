@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[weight]]></content>
+    <tabTrigger>weight</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTextField</description>
+</snippet>

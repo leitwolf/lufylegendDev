@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[h]]></content>
+    <tabTrigger>h</tabTrigger>
+    <scope>source.js</scope>
+    <description>LWindow</description>
+</snippet>

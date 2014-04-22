@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[objectindex]]></content>
+    <tabTrigger>objectindex</tabTrigger>
+    <scope>source.js</scope>
+    <description>LObject</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[filterColor]]></content>
+    <tabTrigger>filterColor</tabTrigger>
+    <scope>source.js</scope>
+    <description>LoadingSample6</description>
+</snippet>

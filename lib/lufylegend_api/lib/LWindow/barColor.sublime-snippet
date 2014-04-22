@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[barColor]]></content>
+    <tabTrigger>barColor</tabTrigger>
+    <scope>source.js</scope>
+    <description>LWindow</description>
+</snippet>

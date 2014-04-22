@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[bitmap_over]]></content>
+    <tabTrigger>bitmap_over</tabTrigger>
+    <scope>source.js</scope>
+    <description>LButton</description>
+</snippet>

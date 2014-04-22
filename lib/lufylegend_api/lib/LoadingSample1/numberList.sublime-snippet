@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[numberList]]></content>
+    <tabTrigger>numberList</tabTrigger>
+    <scope>source.js</scope>
+    <description>LoadingSample1</description>
+</snippet>

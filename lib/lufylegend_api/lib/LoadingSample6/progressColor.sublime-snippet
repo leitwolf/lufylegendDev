@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[progressColor]]></content>
+    <tabTrigger>progressColor</tabTrigger>
+    <scope>source.js</scope>
+    <description>LoadingSample6</description>
+</snippet>

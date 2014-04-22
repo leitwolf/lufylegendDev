@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loopLength]]></content>
+    <tabTrigger>loopLength</tabTrigger>
+    <scope>source.js</scope>
+    <description>LMedia</description>
+</snippet>

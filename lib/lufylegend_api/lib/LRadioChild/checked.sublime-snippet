@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[checked]]></content>
+    <tabTrigger>checked</tabTrigger>
+    <scope>source.js</scope>
+    <description>LRadioChild</description>
+</snippet>

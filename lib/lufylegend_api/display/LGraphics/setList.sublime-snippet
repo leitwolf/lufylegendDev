@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setList]]></content>
+    <tabTrigger>setList</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGraphics</description>
+</snippet>

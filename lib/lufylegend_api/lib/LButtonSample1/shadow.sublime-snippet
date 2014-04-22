@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[shadow]]></content>
+    <tabTrigger>shadow</tabTrigger>
+    <scope>source.js</scope>
+    <description>LButtonSample1</description>
+</snippet>

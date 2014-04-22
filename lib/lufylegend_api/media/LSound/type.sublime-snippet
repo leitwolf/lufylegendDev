@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[type]]></content>
+    <tabTrigger>type</tabTrigger>
+    <scope>source.js</scope>
+    <description>LSound</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_tager]]></content>
+    <tabTrigger>_tager</tabTrigger>
+    <scope>source.js</scope>
+    <description>LScrollbar</description>
+</snippet>

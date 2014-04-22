@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[mouseJoint]]></content>
+    <tabTrigger>mouseJoint</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBox2d</description>
+</snippet>

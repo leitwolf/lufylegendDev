@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_height]]></content>
+    <tabTrigger>_height</tabTrigger>
+    <scope>source.js</scope>
+    <description>LScrollbar</description>
+</snippet>

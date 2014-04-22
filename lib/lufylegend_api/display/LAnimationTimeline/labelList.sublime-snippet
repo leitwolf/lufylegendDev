@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[labelList]]></content>
+    <tabTrigger>labelList</tabTrigger>
+    <scope>source.js</scope>
+    <description>LAnimationTimeline</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[iframe]]></content>
+    <tabTrigger>iframe</tabTrigger>
+    <scope>source.js</scope>
+    <description>LStageWebView</description>
+</snippet>
