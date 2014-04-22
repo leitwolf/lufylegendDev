@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setScroll_h()]]></content>
+    <tabTrigger>setScroll_h()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LScrollbar</description>
+</snippet>

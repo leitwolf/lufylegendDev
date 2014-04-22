@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[mouseUpW(${1:event})]]></content>
+    <tabTrigger>mouseUpW(event)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LScrollbar</description>
+</snippet>

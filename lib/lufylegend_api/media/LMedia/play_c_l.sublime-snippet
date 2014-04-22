@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[play(${1:c}, ${2:l})]]></content>
+    <tabTrigger>play(c, l)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LMedia</description>
+</snippet>

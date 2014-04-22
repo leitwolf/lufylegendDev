@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LStageScaleMode.SHOW_ALL]]></content>
+    <tabTrigger>LStageScaleMode.SHOW_ALL</tabTrigger>
+    <scope>source.js</scope>
+    <description>LStageScaleMode</description>
+</snippet>

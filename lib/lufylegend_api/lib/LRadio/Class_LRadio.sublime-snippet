@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LRadio()]]></content>
+    <tabTrigger>LRadio()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LRadio</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LWindow(${1:width}, ${2:height})]]></content>
+    <tabTrigger>LWindow(width, height)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LWindow</description>
+</snippet>

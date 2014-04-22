@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[strokeStyle(${1:co})]]></content>
+    <tabTrigger>strokeStyle(co)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGraphics</description>
+</snippet>

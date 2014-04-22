@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LBlendMode.LIGHTER]]></content>
+    <tabTrigger>LBlendMode.LIGHTER</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBlendMode</description>
+</snippet>

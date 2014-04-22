@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LStageScaleMode.NO_BORDER]]></content>
+    <tabTrigger>LStageScaleMode.NO_BORDER</tabTrigger>
+    <scope>source.js</scope>
+    <description>LStageScaleMode</description>
+</snippet>

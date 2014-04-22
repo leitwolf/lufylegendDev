@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[pixelDissolveUpdateRun()]]></content>
+    <tabTrigger>pixelDissolveUpdateRun()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTransition</description>
+</snippet>

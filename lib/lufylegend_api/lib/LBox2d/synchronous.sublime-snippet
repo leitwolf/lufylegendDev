@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[synchronous()]]></content>
+    <tabTrigger>synchronous()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBox2d</description>
+</snippet>

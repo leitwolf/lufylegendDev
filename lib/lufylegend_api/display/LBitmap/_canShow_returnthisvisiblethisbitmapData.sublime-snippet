@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_canShow(${1:returnthisvisiblethisbitmapData})]]></content>
+    <tabTrigger>_canShow(returnthisvisiblethisbitmapData)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBitmap</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createVerticesArray(${1:a})]]></content>
+    <tabTrigger>createVerticesArray(a)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBox2d</description>
+</snippet>

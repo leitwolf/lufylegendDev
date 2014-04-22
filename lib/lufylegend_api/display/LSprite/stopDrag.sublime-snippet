@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[stopDrag()]]></content>
+    <tabTrigger>stopDrag()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LSprite</description>
+</snippet>

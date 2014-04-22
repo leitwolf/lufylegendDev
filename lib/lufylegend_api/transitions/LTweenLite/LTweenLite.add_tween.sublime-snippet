@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LTweenLite.add(${1:tween})]]></content>
+    <tabTrigger>LTweenLite.add(tween)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTweenLite</description>
+</snippet>

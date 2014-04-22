@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LWindow.CLOSE]]></content>
+    <tabTrigger>LWindow.CLOSE</tabTrigger>
+    <scope>source.js</scope>
+    <description>LWindow</description>
+</snippet>

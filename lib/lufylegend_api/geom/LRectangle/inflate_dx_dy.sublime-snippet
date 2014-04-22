@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[inflate(${1:dx}, ${2:dy})]]></content>
+    <tabTrigger>inflate(dx, dy)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LRectangle</description>
+</snippet>

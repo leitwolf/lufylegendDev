@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[blinds()]]></content>
+    <tabTrigger>blinds()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTransition</description>
+</snippet>

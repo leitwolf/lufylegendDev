@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LMultitouch.touchs]]></content>
+    <tabTrigger>LMultitouch.touchs</tabTrigger>
+    <scope>source.js</scope>
+    <description>LMultitouch</description>
+</snippet>

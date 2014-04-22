@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LEvent.END_CONTACT]]></content>
+    <tabTrigger>LEvent.END_CONTACT</tabTrigger>
+    <scope>source.js</scope>
+    <description>LEvent</description>
+</snippet>

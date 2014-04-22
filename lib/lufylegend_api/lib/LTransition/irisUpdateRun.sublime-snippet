@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[irisUpdateRun()]]></content>
+    <tabTrigger>irisUpdateRun()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTransition</description>
+</snippet>

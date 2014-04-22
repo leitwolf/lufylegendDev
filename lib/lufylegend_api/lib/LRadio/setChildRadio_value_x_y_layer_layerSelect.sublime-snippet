@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setChildRadio(${1:value}, ${2:x}, ${3:y}, ${4:layer}, ${5:layerSelect})]]></content>
+    <tabTrigger>setChildRadio(value, x, y, layer, layerSelect)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LRadio</description>
+</snippet>

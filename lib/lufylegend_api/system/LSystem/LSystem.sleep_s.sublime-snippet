@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LSystem.sleep(${1:s})]]></content>
+    <tabTrigger>LSystem.sleep(s)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LSystem</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addBodyPolygon(${1:w}, ${2:h}, ${3:type}, ${4:density}, ${5:friction}, ${6:restitution})]]></content>
+    <tabTrigger>addBodyPolygon(w, h, type, density, friction, restitution)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LSprite</description>
+</snippet>

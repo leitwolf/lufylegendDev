@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getDataInRect(${1:rect})]]></content>
+    <tabTrigger>getDataInRect(rect)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LQuadTree</description>
+</snippet>

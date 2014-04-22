@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[scrollToRight()]]></content>
+    <tabTrigger>scrollToRight()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LScrollbar</description>
+</snippet>

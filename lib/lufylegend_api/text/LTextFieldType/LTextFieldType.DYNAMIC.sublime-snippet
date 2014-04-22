@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LTextFieldType.DYNAMIC]]></content>
+    <tabTrigger>LTextFieldType.DYNAMIC</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTextFieldType</description>
+</snippet>

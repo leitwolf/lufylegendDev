@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[zoomComplete(${1:self})]]></content>
+    <tabTrigger>zoomComplete(self)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTransition</description>
+</snippet>

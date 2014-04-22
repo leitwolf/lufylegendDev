@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAction(${1:rowIndex}, ${2:colIndex}, ${3:mode}, ${4:isMirror})]]></content>
+    <tabTrigger>setAction(rowIndex, colIndex, mode, isMirror)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LAnimation</description>
+</snippet>

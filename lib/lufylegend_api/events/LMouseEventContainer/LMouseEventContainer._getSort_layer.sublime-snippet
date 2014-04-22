@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LMouseEventContainer._getSort(${1:layer})]]></content>
+    <tabTrigger>LMouseEventContainer._getSort(layer)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LMouseEventContainer</description>
+</snippet>

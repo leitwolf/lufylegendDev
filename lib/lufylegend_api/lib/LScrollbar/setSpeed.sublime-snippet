@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSpeed()]]></content>
+    <tabTrigger>setSpeed()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LScrollbar</description>
+</snippet>

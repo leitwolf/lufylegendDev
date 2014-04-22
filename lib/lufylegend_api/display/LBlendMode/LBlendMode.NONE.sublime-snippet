@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LBlendMode.NONE]]></content>
+    <tabTrigger>LBlendMode.NONE</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBlendMode</description>
+</snippet>

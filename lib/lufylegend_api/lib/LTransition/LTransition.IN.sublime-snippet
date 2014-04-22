@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LTransition.IN]]></content>
+    <tabTrigger>LTransition.IN</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTransition</description>
+</snippet>

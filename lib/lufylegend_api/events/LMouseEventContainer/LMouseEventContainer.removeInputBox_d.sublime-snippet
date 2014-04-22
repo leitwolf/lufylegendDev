@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LMouseEventContainer.removeInputBox(${1:d})]]></content>
+    <tabTrigger>LMouseEventContainer.removeInputBox(d)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LMouseEventContainer</description>
+</snippet>

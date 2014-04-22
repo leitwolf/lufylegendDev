@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_getValue()]]></content>
+    <tabTrigger>_getValue()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LRange</description>
+</snippet>

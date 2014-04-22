@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setRotate(${1:angle})]]></content>
+    <tabTrigger>setRotate(angle)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LSprite</description>
+</snippet>

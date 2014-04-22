@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LGlobal.scaleX(${1:v})]]></content>
+    <tabTrigger>LGlobal.scaleX(v)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGlobal</description>
+</snippet>

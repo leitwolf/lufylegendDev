@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LGlobal.hitTestArc(${1:objA}, ${2:objB}, ${3:objAR}, ${4:objBR})]]></content>
+    <tabTrigger>LGlobal.hitTestArc(objA, objB, objAR, objBR)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGlobal</description>
+</snippet>

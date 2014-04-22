@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LStageWebView()]]></content>
+    <tabTrigger>LStageWebView()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LStageWebView</description>
+</snippet>

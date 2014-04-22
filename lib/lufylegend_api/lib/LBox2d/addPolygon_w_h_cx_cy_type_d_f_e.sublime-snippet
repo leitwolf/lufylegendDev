@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addPolygon(${1:w}, ${2:h}, ${3:cx}, ${4:cy}, ${5:type}, ${6:d}, ${7:f}, ${8:e})]]></content>
+    <tabTrigger>addPolygon(w, h, cx, cy, type, d, f, e)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBox2d</description>
+</snippet>

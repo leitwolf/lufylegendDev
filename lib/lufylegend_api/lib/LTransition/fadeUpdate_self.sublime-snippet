@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[fadeUpdate(${1:self})]]></content>
+    <tabTrigger>fadeUpdate(self)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTransition</description>
+</snippet>

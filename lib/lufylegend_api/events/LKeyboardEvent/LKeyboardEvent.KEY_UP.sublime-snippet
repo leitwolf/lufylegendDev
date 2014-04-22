@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LKeyboardEvent.KEY_UP]]></content>
+    <tabTrigger>LKeyboardEvent.KEY_UP</tabTrigger>
+    <scope>source.js</scope>
+    <description>LKeyboardEvent</description>
+</snippet>

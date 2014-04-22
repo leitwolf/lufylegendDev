@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[gotoAndPlay(${1:name})]]></content>
+    <tabTrigger>gotoAndPlay(name)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LAnimationTimeline</description>
+</snippet>

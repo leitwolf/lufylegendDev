@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[wind(${1:listener})]]></content>
+    <tabTrigger>wind(listener)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTextField</description>
+</snippet>

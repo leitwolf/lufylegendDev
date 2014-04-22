@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setGearJoint(${1:A}, ${2:B}, ${3:ra}, ${4:r}, ${5:p})]]></content>
+    <tabTrigger>setGearJoint(A, B, ra, r, p)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBox2d</description>
+</snippet>

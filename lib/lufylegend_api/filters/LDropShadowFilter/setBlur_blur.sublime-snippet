@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setBlur(${1:blur})]]></content>
+    <tabTrigger>setBlur(blur)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LDropShadowFilter</description>
+</snippet>

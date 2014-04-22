@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[showFPS(${1:s})]]></content>
+    <tabTrigger>showFPS(s)</tabTrigger>
+    <scope>source.js</scope>
+    <description>FPS</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[startDrag(${1:touchPointID})]]></content>
+    <tabTrigger>startDrag(touchPointID)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LSprite</description>
+</snippet>

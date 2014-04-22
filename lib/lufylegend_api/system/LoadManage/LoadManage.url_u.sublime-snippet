@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LoadManage.url(${1:u})]]></content>
+    <tabTrigger>LoadManage.url(u)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LoadManage</description>
+</snippet>

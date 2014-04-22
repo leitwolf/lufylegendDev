@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[pixelDissolveComplete(${1:self})]]></content>
+    <tabTrigger>pixelDissolveComplete(self)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTransition</description>
+</snippet>

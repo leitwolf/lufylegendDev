@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_onClose(${1:event})]]></content>
+    <tabTrigger>_onClose(event)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LWindow</description>
+</snippet>

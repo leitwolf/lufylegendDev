@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_onDraw(${1:event})]]></content>
+    <tabTrigger>_onDraw(event)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LWindow</description>
+</snippet>

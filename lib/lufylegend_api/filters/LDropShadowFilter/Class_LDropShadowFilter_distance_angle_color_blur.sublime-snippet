@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LDropShadowFilter(${1:distance}, ${2:angle}, ${3:color}, ${4:blur})]]></content>
+    <tabTrigger>LDropShadowFilter(distance, angle, color, blur)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LDropShadowFilter</description>
+</snippet>

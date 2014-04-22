@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LEvent.POST_SOLVE]]></content>
+    <tabTrigger>LEvent.POST_SOLVE</tabTrigger>
+    <scope>source.js</scope>
+    <description>LEvent</description>
+</snippet>

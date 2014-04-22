@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_ll_show(${1:c})]]></content>
+    <tabTrigger>_ll_show(c)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LShape</description>
+</snippet>

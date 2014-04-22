@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[lineCap(${1:t})]]></content>
+    <tabTrigger>lineCap(t)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGraphics</description>
+</snippet>

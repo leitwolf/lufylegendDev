@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setWordWrap(${1:v}, ${2:h})]]></content>
+    <tabTrigger>setWordWrap(v, h)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTextField</description>
+</snippet>

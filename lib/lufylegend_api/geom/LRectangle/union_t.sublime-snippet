@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[union(${1:t})]]></content>
+    <tabTrigger>union(t)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LRectangle</description>
+</snippet>

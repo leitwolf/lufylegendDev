@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LoadingSample7(${1:w}, ${2:h}, ${3:color})]]></content>
+    <tabTrigger>LoadingSample7(w, h, color)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LoadingSample7</description>
+</snippet>

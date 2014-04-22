@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setShadowOffset()]]></content>
+    <tabTrigger>setShadowOffset()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LDropShadowFilter</description>
+</snippet>

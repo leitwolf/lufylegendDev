@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LoadManage.loadStart()]]></content>
+    <tabTrigger>LoadManage.loadStart()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LoadManage</description>
+</snippet>

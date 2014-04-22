@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeAllEventListener()]]></content>
+    <tabTrigger>removeAllEventListener()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LInteractiveObject</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[hasEventListener(${1:type})]]></content>
+    <tabTrigger>hasEventListener(type)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LEventDispatcher</description>
+</snippet>

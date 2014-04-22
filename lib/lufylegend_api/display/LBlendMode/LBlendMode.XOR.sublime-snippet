@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LBlendMode.XOR]]></content>
+    <tabTrigger>LBlendMode.XOR</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBlendMode</description>
+</snippet>

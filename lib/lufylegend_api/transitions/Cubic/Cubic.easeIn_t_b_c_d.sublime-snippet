@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Cubic.easeIn(${1:t}, ${2:b}, ${3:c}, ${4:d})]]></content>
+    <tabTrigger>Cubic.easeIn(t, b, c, d)</tabTrigger>
+    <scope>source.js</scope>
+    <description>Cubic</description>
+</snippet>

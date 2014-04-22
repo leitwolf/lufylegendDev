@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LRange(${1:width})]]></content>
+    <tabTrigger>LRange(width)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LRange</description>
+</snippet>

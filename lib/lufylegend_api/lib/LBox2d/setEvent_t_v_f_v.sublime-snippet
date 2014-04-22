@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setEvent(${1:t_v}, ${2:f_v})]]></content>
+    <tabTrigger>setEvent(t_v, f_v)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBox2d</description>
+</snippet>

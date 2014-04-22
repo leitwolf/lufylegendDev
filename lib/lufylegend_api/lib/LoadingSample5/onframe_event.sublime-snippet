@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onframe(${1:event})]]></content>
+    <tabTrigger>onframe(event)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LoadingSample5</description>
+</snippet>

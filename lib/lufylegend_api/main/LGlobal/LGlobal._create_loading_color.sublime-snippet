@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LGlobal._create_loading_color()]]></content>
+    <tabTrigger>LGlobal._create_loading_color()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGlobal</description>
+</snippet>

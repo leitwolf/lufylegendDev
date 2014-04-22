@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[curtain()]]></content>
+    <tabTrigger>curtain()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTransition</description>
+</snippet>

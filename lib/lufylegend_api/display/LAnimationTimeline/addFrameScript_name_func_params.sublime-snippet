@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addFrameScript(${1:name}, ${2:func}, ${3:params})]]></content>
+    <tabTrigger>addFrameScript(name, func, params)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LAnimationTimeline</description>
+</snippet>

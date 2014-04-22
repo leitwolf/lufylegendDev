@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[startY()]]></content>
+    <tabTrigger>startY()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LShape</description>
+</snippet>

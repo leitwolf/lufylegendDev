@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LAccelerometerEvent.DEVICEMOTION]]></content>
+    <tabTrigger>LAccelerometerEvent.DEVICEMOTION</tabTrigger>
+    <scope>source.js</scope>
+    <description>LAccelerometerEvent</description>
+</snippet>

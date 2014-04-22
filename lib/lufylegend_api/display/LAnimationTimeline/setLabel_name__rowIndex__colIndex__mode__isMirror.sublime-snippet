@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setLabel(${1:name}, ${2:_rowIndex}, ${3:_colIndex}, ${4:_mode}, ${5:_isMirror})]]></content>
+    <tabTrigger>setLabel(name, _rowIndex, _colIndex, _mode, _isMirror)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LAnimationTimeline</description>
+</snippet>

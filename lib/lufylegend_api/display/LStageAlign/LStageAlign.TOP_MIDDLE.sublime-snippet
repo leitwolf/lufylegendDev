@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LStageAlign.TOP_MIDDLE]]></content>
+    <tabTrigger>LStageAlign.TOP_MIDDLE</tabTrigger>
+    <scope>source.js</scope>
+    <description>LStageAlign</description>
+</snippet>

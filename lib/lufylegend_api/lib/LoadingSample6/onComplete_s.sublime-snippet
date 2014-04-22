@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onComplete(${1:s})]]></content>
+    <tabTrigger>onComplete(s)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LoadingSample6</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LMouseEventContainer.hasEvent(${1:o}, ${2:list})]]></content>
+    <tabTrigger>LMouseEventContainer.hasEvent(o, list)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LMouseEventContainer</description>
+</snippet>

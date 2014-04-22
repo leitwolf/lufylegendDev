@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LTransition.Curtain]]></content>
+    <tabTrigger>LTransition.Curtain</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTransition</description>
+</snippet>

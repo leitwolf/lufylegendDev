@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LGlobal.touchHandler(${1:e})]]></content>
+    <tabTrigger>LGlobal.touchHandler(e)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGlobal</description>
+</snippet>

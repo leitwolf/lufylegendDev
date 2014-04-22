@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LTransition.Squeeze]]></content>
+    <tabTrigger>LTransition.Squeeze</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTransition</description>
+</snippet>

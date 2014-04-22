@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[add(${1:v})]]></content>
+    <tabTrigger>add(v)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LPoint</description>
+</snippet>

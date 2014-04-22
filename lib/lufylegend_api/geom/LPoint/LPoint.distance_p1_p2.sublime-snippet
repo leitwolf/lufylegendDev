@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LPoint.distance(${1:p1}, ${2:p2})]]></content>
+    <tabTrigger>LPoint.distance(p1, p2)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LPoint</description>
+</snippet>

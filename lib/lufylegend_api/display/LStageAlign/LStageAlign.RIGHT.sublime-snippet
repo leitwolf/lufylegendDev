@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LStageAlign.RIGHT]]></content>
+    <tabTrigger>LStageAlign.RIGHT</tabTrigger>
+    <scope>source.js</scope>
+    <description>LStageAlign</description>
+</snippet>

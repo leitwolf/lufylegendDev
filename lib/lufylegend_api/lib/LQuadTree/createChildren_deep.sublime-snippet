@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createChildren(${1:deep})]]></content>
+    <tabTrigger>createChildren(deep)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LQuadTree</description>
+</snippet>

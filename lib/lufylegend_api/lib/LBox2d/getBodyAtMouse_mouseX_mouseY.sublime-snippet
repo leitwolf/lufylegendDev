@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getBodyAtMouse(${1:mouseX}, ${2:mouseY})]]></content>
+    <tabTrigger>getBodyAtMouse(mouseX, mouseY)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBox2d</description>
+</snippet>

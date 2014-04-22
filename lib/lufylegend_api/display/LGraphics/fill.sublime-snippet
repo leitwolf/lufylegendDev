@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[fill()]]></content>
+    <tabTrigger>fill()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGraphics</description>
+</snippet>

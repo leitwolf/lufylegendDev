@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[scrollToTop()]]></content>
+    <tabTrigger>scrollToTop()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LScrollbar</description>
+</snippet>

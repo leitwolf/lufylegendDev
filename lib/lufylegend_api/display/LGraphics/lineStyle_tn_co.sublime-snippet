@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[lineStyle(${1:tn}, ${2:co})]]></content>
+    <tabTrigger>lineStyle(tn, co)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGraphics</description>
+</snippet>

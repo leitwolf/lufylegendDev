@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setProperties(${1:x}, ${2:y}, ${3:width}, ${4:height})]]></content>
+    <tabTrigger>setProperties(x, y, width, height)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBitmapData</description>
+</snippet>

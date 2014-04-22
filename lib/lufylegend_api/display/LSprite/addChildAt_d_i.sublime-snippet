@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addChildAt(${1:d}, ${2:i})]]></content>
+    <tabTrigger>addChildAt(d, i)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LSprite</description>
+</snippet>

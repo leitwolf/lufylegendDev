@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[OS_IPAD]]></content>
+    <tabTrigger>OS_IPAD</tabTrigger>
+    <scope>source.js</scope>
+    <description>start</description>
+</snippet>

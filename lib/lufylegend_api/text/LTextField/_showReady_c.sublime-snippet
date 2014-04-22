@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_showReady(${1:c})]]></content>
+    <tabTrigger>_showReady(c)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTextField</description>
+</snippet>

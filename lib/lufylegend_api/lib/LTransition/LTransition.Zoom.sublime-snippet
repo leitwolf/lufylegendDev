@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LTransition.Zoom]]></content>
+    <tabTrigger>LTransition.Zoom</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTransition</description>
+</snippet>

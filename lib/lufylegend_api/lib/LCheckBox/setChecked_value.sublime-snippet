@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setChecked(${1:value})]]></content>
+    <tabTrigger>setChecked(value)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LCheckBox</description>
+</snippet>

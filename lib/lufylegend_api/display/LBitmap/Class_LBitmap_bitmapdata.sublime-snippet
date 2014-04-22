@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LBitmap(${1:bitmapdata})]]></content>
+    <tabTrigger>LBitmap(bitmapdata)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBitmap</description>
+</snippet>

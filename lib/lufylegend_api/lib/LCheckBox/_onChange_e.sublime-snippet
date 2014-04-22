@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_onChange(${1:e})]]></content>
+    <tabTrigger>_onChange(e)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LCheckBox</description>
+</snippet>

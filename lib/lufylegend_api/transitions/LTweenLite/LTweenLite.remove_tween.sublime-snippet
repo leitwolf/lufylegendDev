@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LTweenLite.remove(${1:tween})]]></content>
+    <tabTrigger>LTweenLite.remove(tween)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTweenLite</description>
+</snippet>

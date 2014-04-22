@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LStageScaleMode.EXACT_FIT]]></content>
+    <tabTrigger>LStageScaleMode.EXACT_FIT</tabTrigger>
+    <scope>source.js</scope>
+    <description>LStageScaleMode</description>
+</snippet>

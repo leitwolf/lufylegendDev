@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LBlendMode.SOURCE_ATOP]]></content>
+    <tabTrigger>LBlendMode.SOURCE_ATOP</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBlendMode</description>
+</snippet>

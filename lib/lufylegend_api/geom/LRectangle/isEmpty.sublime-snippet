@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isEmpty()]]></content>
+    <tabTrigger>isEmpty()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LRectangle</description>
+</snippet>

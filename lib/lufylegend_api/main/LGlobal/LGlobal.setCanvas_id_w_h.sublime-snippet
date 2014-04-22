@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LGlobal.setCanvas(${1:id}, ${2:w}, ${3:h})]]></content>
+    <tabTrigger>LGlobal.setCanvas(id, w, h)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGlobal</description>
+</snippet>

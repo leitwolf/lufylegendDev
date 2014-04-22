@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LRectangle(${1:x}, ${2:y}, ${3:w}, ${4:h})]]></content>
+    <tabTrigger>LRectangle(x, y, w, h)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LRectangle</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LGlobal.canTouch]]></content>
+    <tabTrigger>LGlobal.canTouch</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGlobal</description>
+</snippet>

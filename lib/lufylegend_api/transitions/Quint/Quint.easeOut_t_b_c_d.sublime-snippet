@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Quint.easeOut(${1:t}, ${2:b}, ${3:c}, ${4:d})]]></content>
+    <tabTrigger>Quint.easeOut(t, b, c, d)</tabTrigger>
+    <scope>source.js</scope>
+    <description>Quint</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[moveDown()]]></content>
+    <tabTrigger>moveDown()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LScrollbar</description>
+</snippet>

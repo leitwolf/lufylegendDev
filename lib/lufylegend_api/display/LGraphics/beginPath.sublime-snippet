@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[beginPath()]]></content>
+    <tabTrigger>beginPath()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGraphics</description>
+</snippet>

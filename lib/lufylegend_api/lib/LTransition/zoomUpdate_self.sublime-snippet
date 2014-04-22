@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[zoomUpdate(${1:self})]]></content>
+    <tabTrigger>zoomUpdate(self)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTransition</description>
+</snippet>

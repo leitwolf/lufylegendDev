@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LTransitionManager.start(${1:displayObject}, ${2:transObj})]]></content>
+    <tabTrigger>LTransitionManager.start(displayObject, transObj)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTransitionManager</description>
+</snippet>

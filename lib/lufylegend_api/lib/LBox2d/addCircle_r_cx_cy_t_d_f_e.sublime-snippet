@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addCircle(${1:r}, ${2:cx}, ${3:cy}, ${4:t}, ${5:d}, ${6:f}, ${7:e})]]></content>
+    <tabTrigger>addCircle(r, cx, cy, t, d, f, e)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBox2d</description>
+</snippet>

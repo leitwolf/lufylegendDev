@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LTransition.Fly]]></content>
+    <tabTrigger>LTransition.Fly</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTransition</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTo(${1:x}, ${2:y})]]></content>
+    <tabTrigger>setTo(x, y)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LPoint</description>
+</snippet>

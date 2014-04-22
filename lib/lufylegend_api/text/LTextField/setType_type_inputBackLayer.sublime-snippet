@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setType(${1:type}, ${2:inputBackLayer})]]></content>
+    <tabTrigger>setType(type, inputBackLayer)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTextField</description>
+</snippet>

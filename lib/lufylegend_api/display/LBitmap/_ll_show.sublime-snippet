@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_ll_show()]]></content>
+    <tabTrigger>_ll_show()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBitmap</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[normalize(${1:t})]]></content>
+    <tabTrigger>normalize(t)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LPoint</description>
+</snippet>

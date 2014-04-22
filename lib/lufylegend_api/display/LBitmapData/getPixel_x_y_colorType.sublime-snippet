@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getPixel(${1:x}, ${2:y}, ${3:colorType})]]></content>
+    <tabTrigger>getPixel(x, y, colorType)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBitmapData</description>
+</snippet>

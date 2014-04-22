@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getRotateXY(${1:w}, ${2:h})]]></content>
+    <tabTrigger>getRotateXY(w, h)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LSprite</description>
+</snippet>

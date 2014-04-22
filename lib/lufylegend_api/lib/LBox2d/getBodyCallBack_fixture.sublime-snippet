@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getBodyCallBack(${1:fixture})]]></content>
+    <tabTrigger>getBodyCallBack(fixture)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBox2d</description>
+</snippet>

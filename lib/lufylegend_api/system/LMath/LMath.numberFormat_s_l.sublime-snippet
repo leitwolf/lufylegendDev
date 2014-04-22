@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LMath.numberFormat(${1:s}, ${2:l})]]></content>
+    <tabTrigger>LMath.numberFormat(s, l)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LMath</description>
+</snippet>

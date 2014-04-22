@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_transformRotate()]]></content>
+    <tabTrigger>_transformRotate()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LDisplayObject</description>
+</snippet>

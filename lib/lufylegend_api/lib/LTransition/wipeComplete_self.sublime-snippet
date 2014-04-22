@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[wipeComplete(${1:self})]]></content>
+    <tabTrigger>wipeComplete(self)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTransition</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeFrameScript(${1:name})]]></content>
+    <tabTrigger>removeFrameScript(name)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LAnimationTimeline</description>
+</snippet>

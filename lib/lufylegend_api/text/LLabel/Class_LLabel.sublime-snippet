@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LLabel()]]></content>
+    <tabTrigger>LLabel()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LLabel</description>
+</snippet>

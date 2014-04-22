@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Strong.easeInOut(${1:t}, ${2:b}, ${3:c}, ${4:d})]]></content>
+    <tabTrigger>Strong.easeInOut(t, b, c, d)</tabTrigger>
+    <scope>source.js</scope>
+    <description>Strong</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[mouseEvent(${1:event}, ${2:type}, ${3:cood})]]></content>
+    <tabTrigger>mouseEvent(event, type, cood)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTextField</description>
+</snippet>

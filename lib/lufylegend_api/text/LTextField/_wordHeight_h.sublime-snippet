@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_wordHeight(${1:h})]]></content>
+    <tabTrigger>_wordHeight(h)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTextField</description>
+</snippet>

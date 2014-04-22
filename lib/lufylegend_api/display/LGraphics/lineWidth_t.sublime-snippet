@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[lineWidth(${1:t})]]></content>
+    <tabTrigger>lineWidth(t)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGraphics</description>
+</snippet>

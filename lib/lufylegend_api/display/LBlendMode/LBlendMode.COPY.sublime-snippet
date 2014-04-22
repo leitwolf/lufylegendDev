@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LBlendMode.COPY]]></content>
+    <tabTrigger>LBlendMode.COPY</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBlendMode</description>
+</snippet>

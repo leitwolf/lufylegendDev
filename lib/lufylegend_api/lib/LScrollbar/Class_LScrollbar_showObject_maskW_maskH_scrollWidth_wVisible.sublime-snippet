@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LScrollbar(${1:showObject}, ${2:maskW}, ${3:maskH}, ${4:scrollWidth}, ${5:wVisible})]]></content>
+    <tabTrigger>LScrollbar(showObject, maskW, maskH, scrollWidth, wVisible)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LScrollbar</description>
+</snippet>

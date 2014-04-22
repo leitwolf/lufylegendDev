@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LMedia.CANPLAYTHROUGH_EVENT]]></content>
+    <tabTrigger>LMedia.CANPLAYTHROUGH_EVENT</tabTrigger>
+    <scope>source.js</scope>
+    <description>LMedia</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getPixels(${1:rect})]]></content>
+    <tabTrigger>getPixels(rect)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBitmapData</description>
+</snippet>

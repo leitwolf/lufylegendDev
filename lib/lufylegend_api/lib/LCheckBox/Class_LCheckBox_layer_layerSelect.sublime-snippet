@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LCheckBox(${1:layer}, ${2:layerSelect})]]></content>
+    <tabTrigger>LCheckBox(layer, layerSelect)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LCheckBox</description>
+</snippet>

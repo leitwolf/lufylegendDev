@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LMouseEvent.DOUBLE_CLICK]]></content>
+    <tabTrigger>LMouseEvent.DOUBLE_CLICK</tabTrigger>
+    <scope>source.js</scope>
+    <description>LMouseEvent</description>
+</snippet>

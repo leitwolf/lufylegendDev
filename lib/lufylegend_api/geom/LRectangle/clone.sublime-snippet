@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[clone()]]></content>
+    <tabTrigger>clone()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LRectangle</description>
+</snippet>

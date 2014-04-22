@@ -1,0 +1,12 @@
+{
+    // must set the path
+    "lufylegend_root": "",
+    // js template attributes
+    "date_format": "%Y-%m-%d %H:%M:%S",
+    // i.e. peter or peter (peter@gmail.com)
+    "author": "Your Name",
+    // ant with Google Closure Compiler 
+    "ant_path": "ant",
+    // Google Closure Compiler path
+    "google_closure_compiler_path": ""
+}

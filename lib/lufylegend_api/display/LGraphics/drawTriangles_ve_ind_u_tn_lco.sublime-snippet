@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[drawTriangles(${1:ve}, ${2:ind}, ${3:u}, ${4:tn}, ${5:lco})]]></content>
+    <tabTrigger>drawTriangles(ve, ind, u, tn, lco)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGraphics</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_onChangeUp(${1:e})]]></content>
+    <tabTrigger>_onChangeUp(e)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LComboBox</description>
+</snippet>

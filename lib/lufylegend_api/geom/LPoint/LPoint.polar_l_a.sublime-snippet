@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LPoint.polar(${1:l}, ${2:a})]]></content>
+    <tabTrigger>LPoint.polar(l, a)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LPoint</description>
+</snippet>

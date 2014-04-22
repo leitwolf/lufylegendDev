@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LRadioChild(${1:value}, ${2:layer}, ${3:layerSelect})]]></content>
+    <tabTrigger>LRadioChild(value, layer, layerSelect)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LRadioChild</description>
+</snippet>

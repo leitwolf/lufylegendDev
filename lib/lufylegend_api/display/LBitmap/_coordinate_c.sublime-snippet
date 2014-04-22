@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_coordinate(${1:c})]]></content>
+    <tabTrigger>_coordinate(c)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBitmap</description>
+</snippet>

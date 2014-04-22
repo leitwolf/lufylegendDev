@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addVertices(${1:vertices}, ${2:type}, ${3:d}, ${4:f}, ${5:e})]]></content>
+    <tabTrigger>addVertices(vertices, type, d, f, e)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBox2d</description>
+</snippet>

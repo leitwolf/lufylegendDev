@@ -1,0 +1,33 @@
+[{ "caption": "-", "id": "lufylegend" },
+{
+    "caption": "New js File",
+    "id": "new_js_file",
+    "command": "js_new_file",
+    "args": {
+        "dirs": []
+    }
+},
+{
+    "caption": "Create build.xml",
+    "id": "create_build_xml",
+    "command": "create_build_xml",
+    "args": {
+        "dirs": []
+    }
+},
+{
+    "caption": "Compress js",
+    "id": "compress_js",
+    "command": "lufylegend_compress_js",
+    "args": {
+        "files": []
+    }
+},
+{
+    "caption": "Rebuild User Definition",
+    "id": "rebuild_user_definition",
+    "command": "lufylegend_rebuild_user_definition",
+    "args": {
+        "dirs": []
+    }
+}]

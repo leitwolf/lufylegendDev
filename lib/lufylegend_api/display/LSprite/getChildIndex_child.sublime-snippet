@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getChildIndex(${1:child})]]></content>
+    <tabTrigger>getChildIndex(child)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LSprite</description>
+</snippet>

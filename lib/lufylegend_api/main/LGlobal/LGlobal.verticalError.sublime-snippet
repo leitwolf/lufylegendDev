@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LGlobal.verticalError()]]></content>
+    <tabTrigger>LGlobal.verticalError()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGlobal</description>
+</snippet>

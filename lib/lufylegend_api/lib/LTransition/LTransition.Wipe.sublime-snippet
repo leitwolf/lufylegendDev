@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LTransition.Wipe]]></content>
+    <tabTrigger>LTransition.Wipe</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTransition</description>
+</snippet>

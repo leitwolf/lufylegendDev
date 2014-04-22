@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDistanceJoint(${1:A}, ${2:B})]]></content>
+    <tabTrigger>setDistanceJoint(A, B)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBox2d</description>
+</snippet>

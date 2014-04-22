@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[iris()]]></content>
+    <tabTrigger>iris()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTransition</description>
+</snippet>

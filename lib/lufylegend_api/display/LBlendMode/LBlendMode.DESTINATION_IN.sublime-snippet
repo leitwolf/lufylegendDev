@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LBlendMode.DESTINATION_IN]]></content>
+    <tabTrigger>LBlendMode.DESTINATION_IN</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBlendMode</description>
+</snippet>

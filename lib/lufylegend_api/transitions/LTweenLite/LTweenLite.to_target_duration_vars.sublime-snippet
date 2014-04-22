@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LTweenLite.to(${1:target}, ${2:duration}, ${3:vars})]]></content>
+    <tabTrigger>LTweenLite.to(target, duration, vars)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTweenLite</description>
+</snippet>

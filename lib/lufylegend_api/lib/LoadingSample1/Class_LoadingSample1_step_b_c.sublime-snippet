@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LoadingSample1(${1:step}, ${2:b}, ${3:c})]]></content>
+    <tabTrigger>LoadingSample1(step, b, c)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LoadingSample1</description>
+</snippet>

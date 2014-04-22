@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LEasing.Elastic.easeIn(${1:t}, ${2:b}, ${3:c}, ${4:d}, ${5:a}, ${6:p})]]></content>
+    <tabTrigger>LEasing.Elastic.easeIn(t, b, c, d, a, p)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LEasing</description>
+</snippet>

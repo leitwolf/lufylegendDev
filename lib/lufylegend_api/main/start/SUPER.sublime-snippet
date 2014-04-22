@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[SUPER]]></content>
+    <tabTrigger>SUPER</tabTrigger>
+    <scope>source.js</scope>
+    <description>start</description>
+</snippet>

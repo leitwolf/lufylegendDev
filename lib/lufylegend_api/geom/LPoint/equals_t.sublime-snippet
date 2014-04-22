@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[equals(${1:t})]]></content>
+    <tabTrigger>equals(t)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LPoint</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LGlobal.dragHandler(${1:e})]]></content>
+    <tabTrigger>LGlobal.dragHandler(e)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGlobal</description>
+</snippet>

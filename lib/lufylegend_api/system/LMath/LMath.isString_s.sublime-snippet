@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LMath.isString(${1:s})]]></content>
+    <tabTrigger>LMath.isString(s)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LMath</description>
+</snippet>

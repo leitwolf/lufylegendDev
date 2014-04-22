@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[intersection(${1:t})]]></content>
+    <tabTrigger>intersection(t)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LRectangle</description>
+</snippet>

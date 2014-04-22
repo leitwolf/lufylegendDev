@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[flyComplete(${1:self})]]></content>
+    <tabTrigger>flyComplete(self)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTransition</description>
+</snippet>

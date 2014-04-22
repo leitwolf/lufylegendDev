@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LEvent.PRE_SOLVE]]></content>
+    <tabTrigger>LEvent.PRE_SOLVE</tabTrigger>
+    <scope>source.js</scope>
+    <description>LEvent</description>
+</snippet>

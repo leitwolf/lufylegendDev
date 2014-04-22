@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LEventDispatcher()]]></content>
+    <tabTrigger>LEventDispatcher()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LEventDispatcher</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LComboBox(${1:size}, ${2:color}, ${3:font}, ${4:layer}, ${5:layerUp}, ${6:layerDown})]]></content>
+    <tabTrigger>LComboBox(size, color, font, layer, layerUp, layerDown)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LComboBox</description>
+</snippet>

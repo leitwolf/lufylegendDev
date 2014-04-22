@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[drawLine(${1:tn}, ${2:lco}, ${3:pa})]]></content>
+    <tabTrigger>drawLine(tn, lco, pa)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGraphics</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[drawVertices(${1:tn}, ${2:lco}, ${3:v}, ${4:isf}, ${5:co})]]></content>
+    <tabTrigger>drawVertices(tn, lco, v, isf, co)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGraphics</description>
+</snippet>

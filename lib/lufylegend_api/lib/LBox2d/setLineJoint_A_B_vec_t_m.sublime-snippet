@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setLineJoint(${1:A}, ${2:B}, ${3:vec}, ${4:t}, ${5:m})]]></content>
+    <tabTrigger>setLineJoint(A, B, vec, t, m)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBox2d</description>
+</snippet>
