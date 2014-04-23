@@ -80,7 +80,7 @@ def parseJs(filePath):
             if m:
                 handleFunction(saveDir,"",m.group(1),m.group(2))
                 handleDefinition(m.group(1),filePath,lineNum)
-                continue            
+                continue
             m=re.match("^\s*(\w+)\.prototype\.(\w+)\s*=\s*function\s*\((.*)\)",line)
             if m:
                 handleFunction(saveDir,m.group(1),m.group(2),m.group(3))
@@ -88,6 +88,9 @@ def parseJs(filePath):
                 continue
             # vars
             m=re.match("^\s*var\s+(\w+)",line)
+            m2=re.match("^\s*(\w+\.\w+)\s*=",line)  
+            if m2:
+                m=m2
             if m:
                 handleVar(saveDir,m.group(1))
                 handleDefinition(m.group(1),filePath,lineNum)
