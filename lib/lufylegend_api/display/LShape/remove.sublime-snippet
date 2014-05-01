@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[remove()]]></content>
-    <tabTrigger>remove()</tabTrigger>
-    <scope>source.js</scope>
-    <description>LShape</description>
-</snippet>

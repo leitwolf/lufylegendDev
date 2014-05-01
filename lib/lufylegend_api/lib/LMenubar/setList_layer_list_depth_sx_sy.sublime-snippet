@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setList(${1:layer}, ${2:list}, ${3:depth}, ${4:sx}, ${5:sy})]]></content>
+    <tabTrigger>setList(layer, list, depth, sx, sy)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LMenubar</description>
+</snippet>

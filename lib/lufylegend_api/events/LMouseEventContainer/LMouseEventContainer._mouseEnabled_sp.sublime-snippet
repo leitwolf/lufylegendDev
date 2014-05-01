@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LMouseEventContainer._mouseEnabled(${1:sp})]]></content>
+    <tabTrigger>LMouseEventContainer._mouseEnabled(sp)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LMouseEventContainer</description>
+</snippet>

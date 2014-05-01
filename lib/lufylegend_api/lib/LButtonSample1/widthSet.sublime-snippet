@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[backgroundCorl]]></content>
-    <tabTrigger>backgroundCorl</tabTrigger>
+    <content><![CDATA[widthSet]]></content>
+    <tabTrigger>widthSet</tabTrigger>
     <scope>source.js</scope>
     <description>LButtonSample1</description>
 </snippet>

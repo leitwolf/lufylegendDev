@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[back]]></content>
+    <tabTrigger>back</tabTrigger>
+    <scope>source.js</scope>
+    <description>LMenubar</description>
+</snippet>
