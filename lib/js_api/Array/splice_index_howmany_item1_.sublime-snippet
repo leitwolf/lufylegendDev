@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[splice(${1:index}, ${2:[howmany]}, ${3:[item1]}, ${4:[...]})]]></content>
+    <tabTrigger>splice(index, [howmany], [item1], [...])</tabTrigger>
+    <scope>source.js</scope>
+    <description>Array</description>
+</snippet>

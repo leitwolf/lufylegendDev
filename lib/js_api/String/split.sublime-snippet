@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[split]]></content>
-    <tabTrigger>split</tabTrigger>
-    <scope>source.js</scope>
-    <description>String</description>
-</snippet>

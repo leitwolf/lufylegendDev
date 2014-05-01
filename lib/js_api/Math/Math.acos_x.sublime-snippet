@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Math.acos(${1:x})]]></content>
+    <tabTrigger>Math.acos(x)</tabTrigger>
+    <scope>source.js</scope>
+    <description>Math</description>
+</snippet>

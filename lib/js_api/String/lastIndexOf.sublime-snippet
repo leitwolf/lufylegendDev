@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[lastIndexOf]]></content>
-    <tabTrigger>lastIndexOf</tabTrigger>
-    <scope>source.js</scope>
-    <description>String</description>
-</snippet>

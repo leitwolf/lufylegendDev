@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Date.UTC(${1:year}, ${2:month}, ${3:day}, ${4:[hours]}, ${5:[minutes]}, ${6:[seconds]}, ${7:[ms]})]]></content>
+    <tabTrigger>Date.UTC(year, month, day, [hours], [minutes], [seconds], [ms])</tabTrigger>
+    <scope>source.js</scope>
+    <description>Date</description>
+</snippet>

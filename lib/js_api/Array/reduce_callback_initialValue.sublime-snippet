@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[reduce(${1:callback}, ${2:[initialValue]})]]></content>
+    <tabTrigger>reduce(callback, [initialValue])</tabTrigger>
+    <scope>source.js</scope>
+    <description>Array</description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[cos(${1:x})]]></content>
-    <tabTrigger>cos(x)</tabTrigger>
-    <scope>source.js</scope>
-    <description>Math</description>
-</snippet>

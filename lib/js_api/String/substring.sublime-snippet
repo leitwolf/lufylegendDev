@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[substring]]></content>
-    <tabTrigger>substring</tabTrigger>
-    <scope>source.js</scope>
-    <description>String</description>
-</snippet>

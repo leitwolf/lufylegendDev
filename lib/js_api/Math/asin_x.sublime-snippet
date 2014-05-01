@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[asin(${1:x})]]></content>
-    <tabTrigger>asin(x)</tabTrigger>
-    <scope>source.js</scope>
-    <description>Math</description>
-</snippet>

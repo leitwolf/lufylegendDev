@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[map(${1:callback}, ${2:[arg]})]]></content>
+    <tabTrigger>map(callback, [arg])</tabTrigger>
+    <scope>source.js</scope>
+    <description>Array</description>
+</snippet>

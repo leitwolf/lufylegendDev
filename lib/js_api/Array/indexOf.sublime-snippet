@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[indexOf]]></content>
-    <tabTrigger>indexOf</tabTrigger>
-    <scope>source.js</scope>
-    <description>Array</description>
-</snippet>

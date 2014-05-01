@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[every(${1:callback}, ${2:[arg]})]]></content>
+    <tabTrigger>every(callback, [arg])</tabTrigger>
+    <scope>source.js</scope>
+    <description>Array</description>
+</snippet>

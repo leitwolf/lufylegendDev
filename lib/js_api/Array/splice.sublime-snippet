@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[splice]]></content>
-    <tabTrigger>splice</tabTrigger>
-    <scope>source.js</scope>
-    <description>Array</description>
-</snippet>

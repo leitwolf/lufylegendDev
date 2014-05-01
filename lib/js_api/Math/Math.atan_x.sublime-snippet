@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Math.atan(${1:x})]]></content>
+    <tabTrigger>Math.atan(x)</tabTrigger>
+    <scope>source.js</scope>
+    <description>Math</description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[random()]]></content>
-    <tabTrigger>random()</tabTrigger>
-    <scope>source.js</scope>
-    <description>Math</description>
-</snippet>

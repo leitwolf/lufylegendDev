@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Math.abs(${1:x})]]></content>
+    <tabTrigger>Math.abs(x)</tabTrigger>
+    <scope>source.js</scope>
+    <description>Math</description>
+</snippet>

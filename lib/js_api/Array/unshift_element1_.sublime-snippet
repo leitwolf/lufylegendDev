@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unshift(${1:element1}, ${2:[...]})]]></content>
+    <tabTrigger>unshift(element1, [...])</tabTrigger>
+    <scope>source.js</scope>
+    <description>Array</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Math.sqrt(${1:x})]]></content>
+    <tabTrigger>Math.sqrt(x)</tabTrigger>
+    <scope>source.js</scope>
+    <description>Math</description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[pow]]></content>
-    <tabTrigger>pow</tabTrigger>
-    <scope>source.js</scope>
-    <description>Math</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setUTCHours]]></content>
-    <tabTrigger>setUTCHours</tabTrigger>
-    <scope>source.js</scope>
-    <description>Date</description>
-</snippet>

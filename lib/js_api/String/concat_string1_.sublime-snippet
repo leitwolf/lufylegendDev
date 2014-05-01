@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[concat(${1:string1}, ${2:[...]})]]></content>
+    <tabTrigger>concat(string1, [...])</tabTrigger>
+    <scope>source.js</scope>
+    <description>String</description>
+</snippet>

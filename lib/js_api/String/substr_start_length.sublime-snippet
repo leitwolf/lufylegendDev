@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[substr(${1:start}, ${2:[length]})]]></content>
+    <tabTrigger>substr(start, [length])</tabTrigger>
+    <scope>source.js</scope>
+    <description>String</description>
+</snippet>

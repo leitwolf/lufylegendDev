@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[reduceRight]]></content>
-    <tabTrigger>reduceRight</tabTrigger>
-    <scope>source.js</scope>
-    <description>Array</description>
-</snippet>

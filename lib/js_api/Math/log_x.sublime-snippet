@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[log(${1:x})]]></content>
-    <tabTrigger>log(x)</tabTrigger>
-    <scope>source.js</scope>
-    <description>Math</description>
-</snippet>

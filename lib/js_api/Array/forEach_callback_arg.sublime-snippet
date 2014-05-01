@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[forEach(${1:callback}, ${2:[arg]})]]></content>
+    <tabTrigger>forEach(callback, [arg])</tabTrigger>
+    <scope>source.js</scope>
+    <description>Array</description>
+</snippet>

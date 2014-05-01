@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMonth(${1:month}, ${2:day})]]></content>
+    <tabTrigger>setMonth(month, day)</tabTrigger>
+    <scope>source.js</scope>
+    <description>Date</description>
+</snippet>

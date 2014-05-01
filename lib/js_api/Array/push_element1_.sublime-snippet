@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[push(${1:element1}, ${2:[...]})]]></content>
+    <tabTrigger>push(element1, [...])</tabTrigger>
+    <scope>source.js</scope>
+    <description>Array</description>
+</snippet>

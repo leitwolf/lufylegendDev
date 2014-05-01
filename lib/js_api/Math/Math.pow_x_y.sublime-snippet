@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Math.pow(${1:x}, ${2:y})]]></content>
+    <tabTrigger>Math.pow(x, y)</tabTrigger>
+    <scope>source.js</scope>
+    <description>Math</description>
+</snippet>

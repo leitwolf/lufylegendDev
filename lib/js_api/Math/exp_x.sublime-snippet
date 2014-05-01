@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[exp(${1:x})]]></content>
-    <tabTrigger>exp(x)</tabTrigger>
-    <scope>source.js</scope>
-    <description>Math</description>
-</snippet>

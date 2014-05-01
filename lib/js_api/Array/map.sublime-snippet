@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[map]]></content>
-    <tabTrigger>map</tabTrigger>
-    <scope>source.js</scope>
-    <description>Array</description>
-</snippet>

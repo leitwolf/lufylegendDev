@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[concat]]></content>
-    <tabTrigger>concat</tabTrigger>
-    <scope>source.js</scope>
-    <description>String</description>
-</snippet>
