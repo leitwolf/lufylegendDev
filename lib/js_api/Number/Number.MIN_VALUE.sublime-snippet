@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Number.MIN_VALUE]]></content>
+    <tabTrigger>Number.MIN_VALUE</tabTrigger>
+    <scope>source.js</scope>
+    <description>Number</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Math.LN10]]></content>
+    <tabTrigger>Math.LN10</tabTrigger>
+    <scope>source.js</scope>
+    <description>Math</description>
+</snippet>

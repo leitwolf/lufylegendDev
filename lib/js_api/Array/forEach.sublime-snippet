@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[forEach]]></content>
+    <tabTrigger>forEach</tabTrigger>
+    <scope>source.js</scope>
+    <description>Array</description>
+</snippet>

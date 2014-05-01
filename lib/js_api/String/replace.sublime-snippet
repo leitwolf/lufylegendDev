@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[replace]]></content>
+    <tabTrigger>replace</tabTrigger>
+    <scope>source.js</scope>
+    <description>String</description>
+</snippet>

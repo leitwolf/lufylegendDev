@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setUTCDate(${1:day})]]></content>
+    <tabTrigger>setUTCDate(day)</tabTrigger>
+    <scope>source.js</scope>
+    <description>Date</description>
+</snippet>

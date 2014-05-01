@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[encodeURI(${1:URIstring})]]></content>
+    <tabTrigger>encodeURI(URIstring)</tabTrigger>
+    <scope>source.js</scope>
+    <description></description>
+</snippet>

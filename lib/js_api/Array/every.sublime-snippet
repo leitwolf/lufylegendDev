@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[every]]></content>
+    <tabTrigger>every</tabTrigger>
+    <scope>source.js</scope>
+    <description>Array</description>
+</snippet>

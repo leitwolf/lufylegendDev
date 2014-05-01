@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[sort]]></content>
+    <tabTrigger>sort</tabTrigger>
+    <scope>source.js</scope>
+    <description>Array</description>
+</snippet>

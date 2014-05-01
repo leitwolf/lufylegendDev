@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTime()]]></content>
+    <tabTrigger>getTime()</tabTrigger>
+    <scope>source.js</scope>
+    <description>Date</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Number(${1:object})]]></content>
+    <tabTrigger>Number(object)</tabTrigger>
+    <scope>source.js</scope>
+    <description>Number</description>
+</snippet>

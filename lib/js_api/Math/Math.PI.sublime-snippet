@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Math.PI]]></content>
+    <tabTrigger>Math.PI</tabTrigger>
+    <scope>source.js</scope>
+    <description>Math</description>
+</snippet>

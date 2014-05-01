@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Number.MAX_VALUE]]></content>
+    <tabTrigger>Number.MAX_VALUE</tabTrigger>
+    <scope>source.js</scope>
+    <description>Number</description>
+</snippet>

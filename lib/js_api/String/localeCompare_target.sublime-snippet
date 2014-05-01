@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[localeCompare(${1:target})]]></content>
+    <tabTrigger>localeCompare(target)</tabTrigger>
+    <scope>source.js</scope>
+    <description>String</description>
+</snippet>

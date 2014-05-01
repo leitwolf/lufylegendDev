@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isNaN(${1:value})]]></content>
+    <tabTrigger>isNaN(value)</tabTrigger>
+    <scope>source.js</scope>
+    <description></description>
+</snippet>

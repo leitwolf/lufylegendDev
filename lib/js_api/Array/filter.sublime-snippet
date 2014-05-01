@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[filter]]></content>
+    <tabTrigger>filter</tabTrigger>
+    <scope>source.js</scope>
+    <description>Array</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Array.isArray(${1:obj})]]></content>
+    <tabTrigger>Array.isArray(obj)</tabTrigger>
+    <scope>source.js</scope>
+    <description>Array</description>
+</snippet>

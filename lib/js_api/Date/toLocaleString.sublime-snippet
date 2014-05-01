@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[toLocaleString()]]></content>
+    <tabTrigger>toLocaleString()</tabTrigger>
+    <scope>source.js</scope>
+    <description>Date</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[toPrecision(${1:num})]]></content>
+    <tabTrigger>toPrecision(num)</tabTrigger>
+    <scope>source.js</scope>
+    <description>Number</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[toString(${1:sortby})]]></content>
+    <tabTrigger>toString(sortby)</tabTrigger>
+    <scope>source.js</scope>
+    <description>Array</description>
+</snippet>

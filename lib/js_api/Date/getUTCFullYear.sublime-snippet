@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getUTCFullYear()]]></content>
+    <tabTrigger>getUTCFullYear()</tabTrigger>
+    <scope>source.js</scope>
+    <description>Date</description>
+</snippet>

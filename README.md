@@ -11,6 +11,7 @@ And lufylegendDev is a develop tool for lufylegend on sublime.
 ##Features
 
  * lufylegend api completions support
+ * js system api completions support
  * goto definition
  * compress js files with ant and Google Closure Compiler
  * user definition auto completion

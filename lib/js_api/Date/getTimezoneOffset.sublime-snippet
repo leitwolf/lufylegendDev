@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTimezoneOffset()]]></content>
+    <tabTrigger>getTimezoneOffset()</tabTrigger>
+    <scope>source.js</scope>
+    <description>Date</description>
+</snippet>

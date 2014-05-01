@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[toLocaleLowerCase()]]></content>
+    <tabTrigger>toLocaleLowerCase()</tabTrigger>
+    <scope>source.js</scope>
+    <description>String</description>
+</snippet>

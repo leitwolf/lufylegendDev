@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getClass(${1:javaobj})]]></content>
+    <tabTrigger>getClass(javaobj)</tabTrigger>
+    <scope>source.js</scope>
+    <description></description>
+</snippet>

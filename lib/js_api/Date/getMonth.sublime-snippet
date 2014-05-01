@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getMonth()]]></content>
+    <tabTrigger>getMonth()</tabTrigger>
+    <scope>source.js</scope>
+    <description>Date</description>
+</snippet>

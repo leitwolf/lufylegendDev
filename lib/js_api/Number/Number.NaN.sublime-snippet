@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Number.NaN]]></content>
+    <tabTrigger>Number.NaN</tabTrigger>
+    <scope>source.js</scope>
+    <description>Number</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[min]]></content>
+    <tabTrigger>min</tabTrigger>
+    <scope>source.js</scope>
+    <description>Math</description>
+</snippet>

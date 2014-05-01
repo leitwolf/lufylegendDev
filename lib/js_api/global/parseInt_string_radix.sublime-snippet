@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[parseInt(${1:string}, ${2:[radix]})]]></content>
+    <tabTrigger>parseInt(string, [radix])</tabTrigger>
+    <scope>source.js</scope>
+    <description></description>
+</snippet>

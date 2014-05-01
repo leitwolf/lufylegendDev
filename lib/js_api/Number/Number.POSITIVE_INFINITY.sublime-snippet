@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Number.POSITIVE_INFINITY]]></content>
+    <tabTrigger>Number.POSITIVE_INFINITY</tabTrigger>
+    <scope>source.js</scope>
+    <description>Number</description>
+</snippet>

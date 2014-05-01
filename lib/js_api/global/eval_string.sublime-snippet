@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[eval(${1:string})]]></content>
+    <tabTrigger>eval(string)</tabTrigger>
+    <scope>source.js</scope>
+    <description></description>
+</snippet>
