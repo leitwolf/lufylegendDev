@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LMessageBox()]]></content>
+    <tabTrigger>LMessageBox()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LMessageBox</description>
+</snippet>

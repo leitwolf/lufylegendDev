@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LBox2d(${1:gravity}, ${2:doSleep}, ${3:drawScale})]]></content>
+    <tabTrigger>LBox2d(gravity, doSleep, drawScale)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBox2d</description>
+</snippet>

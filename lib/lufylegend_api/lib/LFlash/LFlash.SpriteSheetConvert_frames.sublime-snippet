@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LFlash.SpriteSheetConvert(${1:frames})]]></content>
+    <tabTrigger>LFlash.SpriteSheetConvert(frames)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LFlash</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LMenubar.MENU_CLOSE]]></content>
+    <tabTrigger>LMenubar.MENU_CLOSE</tabTrigger>
+    <scope>source.js</scope>
+    <description>LMenubar</description>
+</snippet>

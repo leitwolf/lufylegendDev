@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[openMainMenu(${1:index})]]></content>
+    <tabTrigger>openMainMenu(index)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LMenubar</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LFlash()]]></content>
+    <tabTrigger>LFlash()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LFlash</description>
+</snippet>
