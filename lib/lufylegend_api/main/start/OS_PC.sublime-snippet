@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[OS_PC]]></content>
-    <tabTrigger>OS_PC</tabTrigger>
-    <scope>source.js</scope>
-    <description>start</description>
-</snippet>

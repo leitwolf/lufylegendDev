@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[Back.easeOut(${1:t}, ${2:b}, ${3:c}, ${4:d}, ${5:s})]]></content>
-    <tabTrigger>Back.easeOut(t, b, c, d, s)</tabTrigger>
-    <scope>source.js</scope>
-    <description>Back</description>
-</snippet>

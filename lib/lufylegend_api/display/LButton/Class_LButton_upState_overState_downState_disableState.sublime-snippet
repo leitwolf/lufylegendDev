@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LButton(${1:upState}, ${2:overState}, ${3:downState}, ${4:disableState})]]></content>
+    <tabTrigger>LButton(upState, overState, downState, disableState)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LButton</description>
+</snippet>

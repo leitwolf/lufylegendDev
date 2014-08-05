@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[close]]></content>
-    <tabTrigger>close</tabTrigger>
-    <scope>source.js</scope>
-    <description>LWindow</description>
-</snippet>

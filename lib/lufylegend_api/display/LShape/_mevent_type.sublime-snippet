@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[_mevent(${1:type})]]></content>
-    <tabTrigger>_mevent(type)</tabTrigger>
-    <scope>source.js</scope>
-    <description>LShape</description>
-</snippet>

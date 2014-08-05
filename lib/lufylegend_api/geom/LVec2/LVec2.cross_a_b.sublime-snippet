@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LVec2.cross(${1:a}, ${2:b})]]></content>
+    <tabTrigger>LVec2.cross(a, b)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LVec2</description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[LGlobal.mouseEventContainer]]></content>
-    <tabTrigger>LGlobal.mouseEventContainer</tabTrigger>
-    <scope>source.js</scope>
-    <description>LGlobal</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[update()]]></content>
-    <tabTrigger>update()</tabTrigger>
-    <scope>source.js</scope>
-    <description>LBitmapData</description>
-</snippet>

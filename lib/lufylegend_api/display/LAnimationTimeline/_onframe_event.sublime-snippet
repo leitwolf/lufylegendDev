@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[_onframe(${1:event})]]></content>
-    <tabTrigger>_onframe(event)</tabTrigger>
-    <scope>source.js</scope>
-    <description>LAnimationTimeline</description>
-</snippet>

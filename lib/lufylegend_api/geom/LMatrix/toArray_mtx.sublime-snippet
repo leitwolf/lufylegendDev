@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[toArray(${1:mtx})]]></content>
+    <tabTrigger>toArray(mtx)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LMatrix</description>
+</snippet>

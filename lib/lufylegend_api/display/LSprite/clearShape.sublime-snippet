@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[clearShape()]]></content>
+    <tabTrigger>clearShape()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LSprite</description>
+</snippet>

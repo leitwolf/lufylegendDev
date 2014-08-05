@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[label]]></content>
-    <tabTrigger>label</tabTrigger>
-    <scope>source.js</scope>
-    <description>LoadingSample4</description>
-</snippet>

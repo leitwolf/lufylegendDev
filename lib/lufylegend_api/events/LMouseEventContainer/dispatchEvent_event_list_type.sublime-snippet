@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[dispatchEvent(${1:event}, ${2:list}, ${3:type})]]></content>
+    <tabTrigger>dispatchEvent(event, list, type)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LMouseEventContainer</description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[LMouseEventContainer._sort(${1:a}, ${2:b})]]></content>
-    <tabTrigger>LMouseEventContainer._sort(a, b)</tabTrigger>
-    <scope>source.js</scope>
-    <description>LMouseEventContainer</description>
-</snippet>

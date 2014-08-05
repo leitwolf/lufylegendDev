@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[loadtype]]></content>
-    <tabTrigger>loadtype</tabTrigger>
-    <scope>source.js</scope>
-    <description>LURLLoader</description>
-</snippet>

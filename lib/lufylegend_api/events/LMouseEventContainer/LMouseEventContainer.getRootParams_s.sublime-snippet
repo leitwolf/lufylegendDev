@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[LMouseEventContainer.getRootParams(${1:s})]]></content>
-    <tabTrigger>LMouseEventContainer.getRootParams(s)</tabTrigger>
-    <scope>source.js</scope>
-    <description>LMouseEventContainer</description>
-</snippet>

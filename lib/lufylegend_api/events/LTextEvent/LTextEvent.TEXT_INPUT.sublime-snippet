@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LTextEvent.TEXT_INPUT]]></content>
+    <tabTrigger>LTextEvent.TEXT_INPUT</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTextEvent</description>
+</snippet>

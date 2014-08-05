@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[LGlobal.aspectRatio]]></content>
-    <tabTrigger>LGlobal.aspectRatio</tabTrigger>
-    <scope>source.js</scope>
-    <description>LGlobal</description>
-</snippet>

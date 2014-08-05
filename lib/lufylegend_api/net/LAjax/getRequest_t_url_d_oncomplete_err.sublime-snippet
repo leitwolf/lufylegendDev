@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getRequest(${1:t}, ${2:url}, ${3:d}, ${4:oncomplete}, ${5:err})]]></content>
+    <tabTrigger>getRequest(t, url, d, oncomplete, err)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LAjax</description>
+</snippet>

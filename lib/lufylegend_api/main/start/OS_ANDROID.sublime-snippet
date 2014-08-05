@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[OS_ANDROID]]></content>
-    <tabTrigger>OS_ANDROID</tabTrigger>
-    <scope>source.js</scope>
-    <description>start</description>
-</snippet>

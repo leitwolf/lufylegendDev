@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[layerDown]]></content>
-    <tabTrigger>layerDown</tabTrigger>
-    <scope>source.js</scope>
-    <description>LComboBox</description>
-</snippet>

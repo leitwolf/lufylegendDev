@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeEvent(${1:o}, ${2:list}, ${3:f})]]></content>
+    <tabTrigger>removeEvent(o, list, f)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LMouseEventContainer</description>
+</snippet>

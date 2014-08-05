@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addChild(${1:o})]]></content>
-    <tabTrigger>addChild(o)</tabTrigger>
-    <scope>source.js</scope>
-    <description>PageProperty</description>
-</snippet>

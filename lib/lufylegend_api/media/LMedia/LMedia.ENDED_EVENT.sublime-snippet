@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[LMedia.ENDED_EVENT]]></content>
-    <tabTrigger>LMedia.ENDED_EVENT</tabTrigger>
-    <scope>source.js</scope>
-    <description>LMedia</description>
-</snippet>

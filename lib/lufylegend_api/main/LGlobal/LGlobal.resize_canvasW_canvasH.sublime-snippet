@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LGlobal.resize(${1:canvasW}, ${2:canvasH})]]></content>
+    <tabTrigger>LGlobal.resize(canvasW, canvasH)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGlobal</description>
+</snippet>

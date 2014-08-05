@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[resize()]]></content>
+    <tabTrigger>resize()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LDisplayObjectContainer</description>
+</snippet>

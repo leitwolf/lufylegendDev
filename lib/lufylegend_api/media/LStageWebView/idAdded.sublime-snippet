@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[idAdded]]></content>
+    <tabTrigger>idAdded</tabTrigger>
+    <scope>source.js</scope>
+    <description>LStageWebView</description>
+</snippet>

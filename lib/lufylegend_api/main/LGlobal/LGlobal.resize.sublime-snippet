@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[LGlobal.resize()]]></content>
-    <tabTrigger>LGlobal.resize()</tabTrigger>
-    <scope>source.js</scope>
-    <description>LGlobal</description>
-</snippet>

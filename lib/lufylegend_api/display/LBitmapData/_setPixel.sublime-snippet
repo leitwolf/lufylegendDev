@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[_setPixel]]></content>
-    <tabTrigger>_setPixel</tabTrigger>
-    <scope>source.js</scope>
-    <description>LBitmapData</description>
-</snippet>

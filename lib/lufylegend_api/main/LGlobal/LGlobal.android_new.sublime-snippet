@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[LGlobal.android_new]]></content>
-    <tabTrigger>LGlobal.android_new</tabTrigger>
-    <scope>source.js</scope>
-    <description>LGlobal</description>
-</snippet>

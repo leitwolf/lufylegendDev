@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[LGlobal.startTimer]]></content>
-    <tabTrigger>LGlobal.startTimer</tabTrigger>
-    <scope>source.js</scope>
-    <description>LGlobal</description>
-</snippet>

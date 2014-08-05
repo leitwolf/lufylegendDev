@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[LGlobal.speed]]></content>
-    <tabTrigger>LGlobal.speed</tabTrigger>
-    <scope>source.js</scope>
-    <description>LGlobal</description>
-</snippet>

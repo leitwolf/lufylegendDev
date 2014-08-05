@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[selectedBody]]></content>
-    <tabTrigger>selectedBody</tabTrigger>
-    <scope>source.js</scope>
-    <description>LBox2d</description>
-</snippet>

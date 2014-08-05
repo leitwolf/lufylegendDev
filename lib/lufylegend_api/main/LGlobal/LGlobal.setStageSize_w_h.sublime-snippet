@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[LGlobal.setStageSize(${1:w}, ${2:h})]]></content>
-    <tabTrigger>LGlobal.setStageSize(w, h)</tabTrigger>
-    <scope>source.js</scope>
-    <description>LGlobal</description>
-</snippet>

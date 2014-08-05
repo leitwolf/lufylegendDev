@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[LGlobal.FULL_SCREEN]]></content>
-    <tabTrigger>LGlobal.FULL_SCREEN</tabTrigger>
-    <scope>source.js</scope>
-    <description>LGlobal</description>
-</snippet>

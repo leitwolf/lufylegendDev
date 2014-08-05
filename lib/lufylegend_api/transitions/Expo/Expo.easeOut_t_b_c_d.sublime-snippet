@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[Expo.easeOut(${1:t}, ${2:b}, ${3:c}, ${4:d})]]></content>
-    <tabTrigger>Expo.easeOut(t, b, c, d)</tabTrigger>
-    <scope>source.js</scope>
-    <description>Expo</description>
-</snippet>

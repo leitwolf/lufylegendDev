@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[post(${1:url}, ${2:data}, ${3:oncomplete}, ${4:onerror})]]></content>
+    <tabTrigger>post(url, data, oncomplete, onerror)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LAjax</description>
+</snippet>

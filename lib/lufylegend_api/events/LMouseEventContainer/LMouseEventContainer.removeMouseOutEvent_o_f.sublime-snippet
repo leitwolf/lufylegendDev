@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[LMouseEventContainer.removeMouseOutEvent(${1:o}, ${2:f})]]></content>
-    <tabTrigger>LMouseEventContainer.removeMouseOutEvent(o, f)</tabTrigger>
-    <scope>source.js</scope>
-    <description>LMouseEventContainer</description>
-</snippet>

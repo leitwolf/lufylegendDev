@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LGlobal.hitTestPolygonArc(${1:vs}, ${2:arc})]]></content>
+    <tabTrigger>LGlobal.hitTestPolygonArc(vs, arc)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGlobal</description>
+</snippet>

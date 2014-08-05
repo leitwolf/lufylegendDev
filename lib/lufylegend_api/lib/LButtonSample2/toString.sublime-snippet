@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[toString()]]></content>
-    <tabTrigger>toString()</tabTrigger>
-    <scope>source.js</scope>
-    <description>LButtonSample2</description>
-</snippet>

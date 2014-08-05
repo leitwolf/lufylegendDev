@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LMultitouchInputMode.GESTURE]]></content>
+    <tabTrigger>LMultitouchInputMode.GESTURE</tabTrigger>
+    <scope>source.js</scope>
+    <description>LMultitouchInputMode</description>
+</snippet>

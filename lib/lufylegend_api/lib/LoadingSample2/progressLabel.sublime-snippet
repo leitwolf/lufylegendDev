@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[progressLabel]]></content>
-    <tabTrigger>progressLabel</tabTrigger>
-    <scope>source.js</scope>
-    <description>LoadingSample2</description>
-</snippet>

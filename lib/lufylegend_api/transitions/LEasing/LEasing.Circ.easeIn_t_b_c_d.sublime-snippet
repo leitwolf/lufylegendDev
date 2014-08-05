@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[LEasing.Circ.easeIn(${1:t}, ${2:b}, ${3:c}, ${4:d})]]></content>
-    <tabTrigger>LEasing.Circ.easeIn(t, b, c, d)</tabTrigger>
-    <scope>source.js</scope>
-    <description>LEasing</description>
-</snippet>

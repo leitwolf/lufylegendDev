@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LANDSCAPE]]></content>
+    <tabTrigger>LANDSCAPE</tabTrigger>
+    <scope>source.js</scope>
+    <description>LConstant</description>
+</snippet>

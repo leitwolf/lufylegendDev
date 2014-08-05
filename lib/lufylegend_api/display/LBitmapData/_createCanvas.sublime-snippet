@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[_createCanvas()]]></content>
-    <tabTrigger>_createCanvas()</tabTrigger>
-    <scope>source.js</scope>
-    <description>LBitmapData</description>
-</snippet>

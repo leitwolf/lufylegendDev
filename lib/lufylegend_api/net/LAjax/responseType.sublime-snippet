@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[responseType]]></content>
+    <tabTrigger>responseType</tabTrigger>
+    <scope>source.js</scope>
+    <description>LAjax</description>
+</snippet>

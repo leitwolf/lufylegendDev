@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[_eventList]]></content>
-    <tabTrigger>_eventList</tabTrigger>
-    <scope>source.js</scope>
-    <description>LEventDispatcher</description>
-</snippet>

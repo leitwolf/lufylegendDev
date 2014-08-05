@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addMouseDownEvent(${1:o}, ${2:f})]]></content>
+    <tabTrigger>addMouseDownEvent(o, f)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LMouseEventContainer</description>
+</snippet>

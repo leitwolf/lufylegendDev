@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LGlobal.sleep(${1:s})]]></content>
+    <tabTrigger>LGlobal.sleep(s)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGlobal</description>
+</snippet>

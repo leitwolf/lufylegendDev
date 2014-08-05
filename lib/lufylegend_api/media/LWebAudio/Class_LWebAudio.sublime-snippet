@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LWebAudio()]]></content>
+    <tabTrigger>LWebAudio()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LWebAudio</description>
+</snippet>

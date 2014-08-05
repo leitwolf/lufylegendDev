@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[_wVisible]]></content>
-    <tabTrigger>_wVisible</tabTrigger>
-    <scope>source.js</scope>
-    <description>LScrollbar</description>
-</snippet>

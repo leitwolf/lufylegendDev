@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setChildIndex(${1:child}, ${2:index})]]></content>
+    <tabTrigger>setChildIndex(child, index)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LDisplayObjectContainer</description>
+</snippet>

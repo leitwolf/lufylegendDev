@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[LSystem.screen(${1:a})]]></content>
-    <tabTrigger>LSystem.screen(a)</tabTrigger>
-    <scope>source.js</scope>
-    <description>LSystem</description>
-</snippet>

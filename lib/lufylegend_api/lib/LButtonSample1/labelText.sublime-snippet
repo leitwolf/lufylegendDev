@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[labelText]]></content>
-    <tabTrigger>labelText</tabTrigger>
-    <scope>source.js</scope>
-    <description>LButtonSample1</description>
-</snippet>

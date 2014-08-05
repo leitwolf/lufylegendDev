@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[screenWidth]]></content>
-    <tabTrigger>screenWidth</tabTrigger>
-    <scope>source.js</scope>
-    <description>LoadingSample3</description>
-</snippet>

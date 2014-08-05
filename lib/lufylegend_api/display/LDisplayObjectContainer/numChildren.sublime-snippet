@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[numChildren]]></content>
+    <tabTrigger>numChildren</tabTrigger>
+    <scope>source.js</scope>
+    <description>LDisplayObjectContainer</description>
+</snippet>

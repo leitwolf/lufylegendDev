@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[preventDefault()]]></content>
+    <tabTrigger>preventDefault()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LEvent</description>
+</snippet>

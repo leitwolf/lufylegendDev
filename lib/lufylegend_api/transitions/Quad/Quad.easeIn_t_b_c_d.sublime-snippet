@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[Quad.easeIn(${1:t}, ${2:b}, ${3:c}, ${4:d})]]></content>
-    <tabTrigger>Quad.easeIn(t, b, c, d)</tabTrigger>
-    <scope>source.js</scope>
-    <description>Quad</description>
-</snippet>

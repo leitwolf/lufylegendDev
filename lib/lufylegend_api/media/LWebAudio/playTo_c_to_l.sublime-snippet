@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[playTo(${1:c}, ${2:to}, ${3:l})]]></content>
+    <tabTrigger>playTo(c, to, l)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LWebAudio</description>
+</snippet>

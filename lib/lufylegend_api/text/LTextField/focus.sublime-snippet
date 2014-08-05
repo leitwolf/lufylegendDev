@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[focus()]]></content>
+    <tabTrigger>focus()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTextField</description>
+</snippet>

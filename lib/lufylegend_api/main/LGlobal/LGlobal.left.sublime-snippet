@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[LGlobal.left]]></content>
-    <tabTrigger>LGlobal.left</tabTrigger>
-    <scope>source.js</scope>
-    <description>LGlobal</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[selectWidth]]></content>
-    <tabTrigger>selectWidth</tabTrigger>
-    <scope>source.js</scope>
-    <description>LComboBox</description>
-</snippet>

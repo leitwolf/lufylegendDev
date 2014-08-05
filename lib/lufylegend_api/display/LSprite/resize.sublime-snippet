@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[resize()]]></content>
-    <tabTrigger>resize()</tabTrigger>
-    <scope>source.js</scope>
-    <description>LSprite</description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onload(${1:data})]]></content>
+    <tabTrigger>onload(data)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LWebAudio</description>
+</snippet>

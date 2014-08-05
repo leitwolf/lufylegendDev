@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LPoint.x]]></content>
+    <tabTrigger>LPoint.x</tabTrigger>
+    <scope>source.js</scope>
+    <description>LPoint</description>
+</snippet>

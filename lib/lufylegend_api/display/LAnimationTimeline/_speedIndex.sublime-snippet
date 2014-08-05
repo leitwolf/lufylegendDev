@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[_speedIndex]]></content>
-    <tabTrigger>_speedIndex</tabTrigger>
-    <scope>source.js</scope>
-    <description>LAnimationTimeline</description>
-</snippet>

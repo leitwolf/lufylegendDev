@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[scale(${1:sx}, ${2:sy})]]></content>
+    <tabTrigger>scale(sx, sy)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LMatrix</description>
+</snippet>

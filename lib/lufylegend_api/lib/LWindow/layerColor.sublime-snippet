@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[layerColor]]></content>
-    <tabTrigger>layerColor</tabTrigger>
-    <scope>source.js</scope>
-    <description>LWindow</description>
-</snippet>

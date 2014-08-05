@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[_rotateReady()]]></content>
-    <tabTrigger>_rotateReady()</tabTrigger>
-    <scope>source.js</scope>
-    <description>LBitmap</description>
-</snippet>

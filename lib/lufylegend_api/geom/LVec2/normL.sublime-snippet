@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[normL()]]></content>
+    <tabTrigger>normL()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LVec2</description>
+</snippet>

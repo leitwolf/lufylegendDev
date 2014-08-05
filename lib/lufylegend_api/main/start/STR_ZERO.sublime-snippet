@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[STR_ZERO]]></content>
-    <tabTrigger>STR_ZERO</tabTrigger>
-    <scope>source.js</scope>
-    <description>start</description>
-</snippet>

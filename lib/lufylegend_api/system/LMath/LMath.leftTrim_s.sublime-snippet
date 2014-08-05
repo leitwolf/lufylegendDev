@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[LMath.leftTrim(${1:s})]]></content>
-    <tabTrigger>LMath.leftTrim(s)</tabTrigger>
-    <scope>source.js</scope>
-    <description>LMath</description>
-</snippet>

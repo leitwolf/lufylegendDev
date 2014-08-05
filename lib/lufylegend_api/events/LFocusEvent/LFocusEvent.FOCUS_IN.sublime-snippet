@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LFocusEvent.FOCUS_IN]]></content>
+    <tabTrigger>LFocusEvent.FOCUS_IN</tabTrigger>
+    <scope>source.js</scope>
+    <description>LFocusEvent</description>
+</snippet>

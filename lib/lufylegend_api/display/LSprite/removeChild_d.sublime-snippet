@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeChild(${1:d})]]></content>
-    <tabTrigger>removeChild(d)</tabTrigger>
-    <scope>source.js</scope>
-    <description>LSprite</description>
-</snippet>

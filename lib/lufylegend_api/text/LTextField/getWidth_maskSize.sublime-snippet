@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getWidth(${1:maskSize})]]></content>
+    <tabTrigger>getWidth(maskSize)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTextField</description>
+</snippet>

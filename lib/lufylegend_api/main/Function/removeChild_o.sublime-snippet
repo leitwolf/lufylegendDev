@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeChild(${1:o})]]></content>
+    <tabTrigger>removeChild(o)</tabTrigger>
+    <scope>source.js</scope>
+    <description>Function</description>
+</snippet>

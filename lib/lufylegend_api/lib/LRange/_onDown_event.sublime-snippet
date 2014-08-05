@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[_onDown(${1:event})]]></content>
-    <tabTrigger>_onDown(event)</tabTrigger>
-    <scope>source.js</scope>
-    <description>LRange</description>
-</snippet>

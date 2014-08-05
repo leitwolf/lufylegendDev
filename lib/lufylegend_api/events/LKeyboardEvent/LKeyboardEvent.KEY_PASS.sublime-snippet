@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[LKeyboardEvent.KEY_PASS]]></content>
-    <tabTrigger>LKeyboardEvent.KEY_PASS</tabTrigger>
-    <scope>source.js</scope>
-    <description>LKeyboardEvent</description>
-</snippet>

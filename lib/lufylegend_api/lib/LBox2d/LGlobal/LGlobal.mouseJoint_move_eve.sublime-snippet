@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[LGlobal.mouseJoint_move(${1:eve})]]></content>
-    <tabTrigger>LGlobal.mouseJoint_move(eve)</tabTrigger>
-    <scope>source.js</scope>
-    <description>LGlobal</description>
-</snippet>

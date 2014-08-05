@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[pushInputBox(${1:d})]]></content>
+    <tabTrigger>pushInputBox(d)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LMouseEventContainer</description>
+</snippet>

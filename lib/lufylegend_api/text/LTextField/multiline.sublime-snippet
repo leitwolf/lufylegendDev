@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[multiline]]></content>
-    <tabTrigger>multiline</tabTrigger>
-    <scope>source.js</scope>
-    <description>LTextField</description>
-</snippet>

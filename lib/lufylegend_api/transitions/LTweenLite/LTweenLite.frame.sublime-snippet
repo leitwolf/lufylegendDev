@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[LTweenLite.frame()]]></content>
-    <tabTrigger>LTweenLite.frame()</tabTrigger>
-    <scope>source.js</scope>
-    <description>LTweenLite</description>
-</snippet>

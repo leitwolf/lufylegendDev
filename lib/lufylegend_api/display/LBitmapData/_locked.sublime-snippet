@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[_locked]]></content>
-    <tabTrigger>_locked</tabTrigger>
-    <scope>source.js</scope>
-    <description>LBitmapData</description>
-</snippet>

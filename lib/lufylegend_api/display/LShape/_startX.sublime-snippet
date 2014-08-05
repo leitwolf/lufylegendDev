@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[_startX()]]></content>
-    <tabTrigger>_startX()</tabTrigger>
-    <scope>source.js</scope>
-    <description>LShape</description>
-</snippet>

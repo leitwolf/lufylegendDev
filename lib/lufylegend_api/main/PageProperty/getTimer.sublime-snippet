@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getTimer()]]></content>
-    <tabTrigger>getTimer()</tabTrigger>
-    <scope>source.js</scope>
-    <description>PageProperty</description>
-</snippet>

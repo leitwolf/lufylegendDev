@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[llname]]></content>
+    <tabTrigger>llname</tabTrigger>
+    <scope>source.js</scope>
+    <description>LLoadManage</description>
+</snippet>

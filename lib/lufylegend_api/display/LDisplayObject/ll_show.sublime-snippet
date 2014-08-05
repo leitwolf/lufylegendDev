@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ll_show()]]></content>
-    <tabTrigger>ll_show()</tabTrigger>
-    <scope>source.js</scope>
-    <description>LDisplayObject</description>
-</snippet>

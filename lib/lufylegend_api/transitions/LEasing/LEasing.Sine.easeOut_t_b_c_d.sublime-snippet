@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[LEasing.Sine.easeOut(${1:t}, ${2:b}, ${3:c}, ${4:d})]]></content>
-    <tabTrigger>LEasing.Sine.easeOut(t, b, c, d)</tabTrigger>
-    <scope>source.js</scope>
-    <description>LEasing</description>
-</snippet>

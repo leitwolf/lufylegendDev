@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[hitTestPoint(${1:x}, ${2:y})]]></content>
+    <tabTrigger>hitTestPoint(x, y)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LSprite</description>
+</snippet>

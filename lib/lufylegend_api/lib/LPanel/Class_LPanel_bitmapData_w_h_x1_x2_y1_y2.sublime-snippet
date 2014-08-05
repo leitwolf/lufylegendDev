@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LPanel(${1:bitmapData}, ${2:w}, ${3:h}, ${4:x1}, ${5:x2}, ${6:y1}, ${7:y2})]]></content>
+    <tabTrigger>LPanel(bitmapData, w, h, x1, x2, y1, y2)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LPanel</description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isMirror]]></content>
-    <tabTrigger>isMirror</tabTrigger>
-    <scope>source.js</scope>
-    <description>LAnimation</description>
-</snippet>

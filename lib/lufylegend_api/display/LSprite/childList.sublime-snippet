@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[childList]]></content>
-    <tabTrigger>childList</tabTrigger>
-    <scope>source.js</scope>
-    <description>LSprite</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[LGlobal.height]]></content>
-    <tabTrigger>LGlobal.height</tabTrigger>
-    <scope>source.js</scope>
-    <description>LGlobal</description>
-</snippet>

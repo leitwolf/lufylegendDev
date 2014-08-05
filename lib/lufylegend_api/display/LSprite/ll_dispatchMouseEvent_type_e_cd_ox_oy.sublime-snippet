@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ll_dispatchMouseEvent(${1:type}, ${2:e}, ${3:cd}, ${4:ox}, ${5:oy})]]></content>
-    <tabTrigger>ll_dispatchMouseEvent(type, e, cd, ox, oy)</tabTrigger>
-    <scope>source.js</scope>
-    <description>LSprite</description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loadComplete(${1:e})]]></content>
+    <tabTrigger>loadComplete(e)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LLoadManage</description>
+</snippet>

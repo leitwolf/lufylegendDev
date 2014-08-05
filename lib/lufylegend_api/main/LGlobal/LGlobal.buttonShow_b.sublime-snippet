@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[LGlobal.buttonShow(${1:b})]]></content>
-    <tabTrigger>LGlobal.buttonShow(b)</tabTrigger>
-    <scope>source.js</scope>
-    <description>LGlobal</description>
-</snippet>

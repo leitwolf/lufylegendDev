@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[shapes]]></content>
+    <tabTrigger>shapes</tabTrigger>
+    <scope>source.js</scope>
+    <description>LSprite</description>
+</snippet>

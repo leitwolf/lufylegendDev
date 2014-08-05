@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeMouseDblEvent(${1:o}, ${2:f})]]></content>
+    <tabTrigger>removeMouseDblEvent(o, f)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LMouseEventContainer</description>
+</snippet>

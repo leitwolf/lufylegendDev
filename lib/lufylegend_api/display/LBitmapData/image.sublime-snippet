@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[image]]></content>
-    <tabTrigger>image</tabTrigger>
-    <scope>source.js</scope>
-    <description>LBitmapData</description>
-</snippet>

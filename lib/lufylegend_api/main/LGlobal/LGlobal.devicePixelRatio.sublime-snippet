@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[LGlobal.devicePixelRatio]]></content>
-    <tabTrigger>LGlobal.devicePixelRatio</tabTrigger>
-    <scope>source.js</scope>
-    <description>LGlobal</description>
-</snippet>

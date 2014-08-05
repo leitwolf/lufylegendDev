@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[load(${1:l}, ${2:u}, ${3:c})]]></content>
+    <tabTrigger>load(l, u, c)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LLoadManage</description>
+</snippet>

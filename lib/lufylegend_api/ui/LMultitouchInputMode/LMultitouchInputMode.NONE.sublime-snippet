@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LMultitouchInputMode.NONE]]></content>
+    <tabTrigger>LMultitouchInputMode.NONE</tabTrigger>
+    <scope>source.js</scope>
+    <description>LMultitouchInputMode</description>
+</snippet>

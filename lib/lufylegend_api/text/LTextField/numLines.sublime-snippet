@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[numLines]]></content>
-    <tabTrigger>numLines</tabTrigger>
-    <scope>source.js</scope>
-    <description>LTextField</description>
-</snippet>

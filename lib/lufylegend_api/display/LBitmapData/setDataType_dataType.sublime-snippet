@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setDataType(${1:dataType})]]></content>
-    <tabTrigger>setDataType(dataType)</tabTrigger>
-    <scope>source.js</scope>
-    <description>LBitmapData</description>
-</snippet>

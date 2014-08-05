@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[_onBarUp(${1:event})]]></content>
-    <tabTrigger>_onBarUp(event)</tabTrigger>
-    <scope>source.js</scope>
-    <description>LWindow</description>
-</snippet>

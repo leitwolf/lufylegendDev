@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[windRun()]]></content>
-    <tabTrigger>windRun()</tabTrigger>
-    <scope>source.js</scope>
-    <description>LTextField</description>
-</snippet>

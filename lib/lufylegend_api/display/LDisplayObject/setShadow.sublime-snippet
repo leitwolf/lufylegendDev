@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setShadow()]]></content>
-    <tabTrigger>setShadow()</tabTrigger>
-    <scope>source.js</scope>
-    <description>LDisplayObject</description>
-</snippet>

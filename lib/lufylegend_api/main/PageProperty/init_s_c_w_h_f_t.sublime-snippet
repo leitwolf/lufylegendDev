@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[init(${1:s}, ${2:c}, ${3:w}, ${4:h}, ${5:f}, ${6:t})]]></content>
-    <tabTrigger>init(s, c, w, h, f, t)</tabTrigger>
-    <scope>source.js</scope>
-    <description>PageProperty</description>
-</snippet>

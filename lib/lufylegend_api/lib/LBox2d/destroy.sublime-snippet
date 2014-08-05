@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[destroy]]></content>
-    <tabTrigger>destroy</tabTrigger>
-    <scope>source.js</scope>
-    <description>LBox2d</description>
-</snippet>

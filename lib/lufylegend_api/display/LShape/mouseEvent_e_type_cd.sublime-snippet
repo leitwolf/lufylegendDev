@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[mouseEvent(${1:e}, ${2:type}, ${3:cd})]]></content>
-    <tabTrigger>mouseEvent(e, type, cd)</tabTrigger>
-    <scope>source.js</scope>
-    <description>LShape</description>
-</snippet>

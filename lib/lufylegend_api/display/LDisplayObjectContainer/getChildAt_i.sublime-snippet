@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getChildAt(${1:i})]]></content>
+    <tabTrigger>getChildAt(i)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LDisplayObjectContainer</description>
+</snippet>

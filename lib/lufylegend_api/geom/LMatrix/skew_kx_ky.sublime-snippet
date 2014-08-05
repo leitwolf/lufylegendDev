@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[skew(${1:kx}, ${2:ky})]]></content>
+    <tabTrigger>skew(kx, ky)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LMatrix</description>
+</snippet>

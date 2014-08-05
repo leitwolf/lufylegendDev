@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[trace()]]></content>
-    <tabTrigger>trace()</tabTrigger>
-    <scope>source.js</scope>
-    <description>PageProperty</description>
-</snippet>

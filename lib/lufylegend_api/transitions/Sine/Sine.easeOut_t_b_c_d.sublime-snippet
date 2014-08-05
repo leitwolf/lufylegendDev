@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[Sine.easeOut(${1:t}, ${2:b}, ${3:c}, ${4:d})]]></content>
-    <tabTrigger>Sine.easeOut(t, b, c, d)</tabTrigger>
-    <scope>source.js</scope>
-    <description>Sine</description>
-</snippet>

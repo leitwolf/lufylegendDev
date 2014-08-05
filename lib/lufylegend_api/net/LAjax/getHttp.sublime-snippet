@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getHttp()]]></content>
+    <tabTrigger>getHttp()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LAjax</description>
+</snippet>

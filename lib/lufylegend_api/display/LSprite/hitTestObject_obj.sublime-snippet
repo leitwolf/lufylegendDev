@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[hitTestObject(${1:obj})]]></content>
+    <tabTrigger>hitTestObject(obj)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LSprite</description>
+</snippet>

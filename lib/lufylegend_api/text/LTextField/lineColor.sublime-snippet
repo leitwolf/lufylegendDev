@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[lineColor]]></content>
+    <tabTrigger>lineColor</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTextField</description>
+</snippet>

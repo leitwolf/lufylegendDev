@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[Quart.easeOut(${1:t}, ${2:b}, ${3:c}, ${4:d})]]></content>
-    <tabTrigger>Quart.easeOut(t, b, c, d)</tabTrigger>
-    <scope>source.js</scope>
-    <description>Quart</description>
-</snippet>

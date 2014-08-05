@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[LMath.isNumber(${1:s})]]></content>
-    <tabTrigger>LMath.isNumber(s)</tabTrigger>
-    <scope>source.js</scope>
-    <description>LMath</description>
-</snippet>

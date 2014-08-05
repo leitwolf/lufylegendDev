@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[playSegment(${1:c}, ${2:seg}, ${3:l})]]></content>
+    <tabTrigger>playSegment(c, seg, l)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LWebAudio</description>
+</snippet>

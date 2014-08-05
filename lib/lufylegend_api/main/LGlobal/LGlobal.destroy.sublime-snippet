@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[LGlobal.destroy]]></content>
-    <tabTrigger>LGlobal.destroy</tabTrigger>
-    <scope>source.js</scope>
-    <description>LGlobal</description>
-</snippet>
