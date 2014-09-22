@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LGlobal.box2d]]></content>
+    <tabTrigger>LGlobal.box2d</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGlobal</description>
+</snippet>

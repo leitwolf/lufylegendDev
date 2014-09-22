@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LRectangle.prototype]]></content>
+    <tabTrigger>LRectangle.prototype</tabTrigger>
+    <scope>source.js</scope>
+    <description>LRectangle</description>
+</snippet>

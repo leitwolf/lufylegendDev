@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LGlobal.ll_clicks]]></content>
+    <tabTrigger>LGlobal.ll_clicks</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGlobal</description>
+</snippet>

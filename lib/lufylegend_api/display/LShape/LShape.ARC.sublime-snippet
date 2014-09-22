@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LShape.ARC]]></content>
+    <tabTrigger>LShape.ARC</tabTrigger>
+    <scope>source.js</scope>
+    <description>LShape</description>
+</snippet>

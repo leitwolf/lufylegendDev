@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LTreeWidget.BRANCH_OPEN]]></content>
+    <tabTrigger>LTreeWidget.BRANCH_OPEN</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTreeWidget</description>
+</snippet>

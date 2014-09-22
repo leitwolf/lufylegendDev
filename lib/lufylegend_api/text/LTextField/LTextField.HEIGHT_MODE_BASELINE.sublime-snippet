@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LTextField.HEIGHT_MODE_BASELINE]]></content>
+    <tabTrigger>LTextField.HEIGHT_MODE_BASELINE</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTextField</description>
+</snippet>

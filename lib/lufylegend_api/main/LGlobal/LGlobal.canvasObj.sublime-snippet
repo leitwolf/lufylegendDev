@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LGlobal.canvasObj]]></content>
+    <tabTrigger>LGlobal.canvasObj</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGlobal</description>
+</snippet>

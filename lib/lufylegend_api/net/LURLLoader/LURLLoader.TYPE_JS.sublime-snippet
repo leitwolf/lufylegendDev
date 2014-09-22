@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LURLLoader.TYPE_JS]]></content>
+    <tabTrigger>LURLLoader.TYPE_JS</tabTrigger>
+    <scope>source.js</scope>
+    <description>LURLLoader</description>
+</snippet>

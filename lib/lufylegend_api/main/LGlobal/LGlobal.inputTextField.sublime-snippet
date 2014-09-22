@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LGlobal.inputTextField]]></content>
+    <tabTrigger>LGlobal.inputTextField</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGlobal</description>
+</snippet>

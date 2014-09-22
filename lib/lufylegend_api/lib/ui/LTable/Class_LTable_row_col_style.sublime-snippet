@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LTable(${1:row}, ${2:col}, ${3:style})]]></content>
+    <tabTrigger>LTable(row, col, style)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTable</description>
+</snippet>

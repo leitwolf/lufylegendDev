@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[showChildList()]]></content>
+    <tabTrigger>showChildList()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LComboBox</description>
+</snippet>

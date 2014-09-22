@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LShape.RECT]]></content>
+    <tabTrigger>LShape.RECT</tabTrigger>
+    <scope>source.js</scope>
+    <description>LShape</description>
+</snippet>

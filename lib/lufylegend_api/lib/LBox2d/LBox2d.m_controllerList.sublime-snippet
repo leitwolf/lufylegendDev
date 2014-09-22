@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LBox2d.m_controllerList]]></content>
+    <tabTrigger>LBox2d.m_controllerList</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBox2d</description>
+</snippet>

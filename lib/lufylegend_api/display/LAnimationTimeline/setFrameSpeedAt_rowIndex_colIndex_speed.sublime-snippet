@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setFrameSpeedAt(${1:rowIndex}, ${2:colIndex}, ${3:speed})]]></content>
+    <tabTrigger>setFrameSpeedAt(rowIndex, colIndex, speed)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LAnimationTimeline</description>
+</snippet>

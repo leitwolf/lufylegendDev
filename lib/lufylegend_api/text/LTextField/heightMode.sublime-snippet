@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[heightMode]]></content>
+    <tabTrigger>heightMode</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTextField</description>
+</snippet>

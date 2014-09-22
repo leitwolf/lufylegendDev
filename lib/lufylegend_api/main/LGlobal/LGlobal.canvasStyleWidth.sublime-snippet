@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LGlobal.canvasStyleWidth]]></content>
+    <tabTrigger>LGlobal.canvasStyleWidth</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGlobal</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setCell(${1:child}, ${2:row}, ${3:col})]]></content>
+    <tabTrigger>setCell(child, row, col)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTable</description>
+</snippet>

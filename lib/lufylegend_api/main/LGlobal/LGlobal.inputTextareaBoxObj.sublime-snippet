@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LGlobal.inputTextareaBoxObj]]></content>
+    <tabTrigger>LGlobal.inputTextareaBoxObj</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGlobal</description>
+</snippet>

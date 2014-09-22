@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LLoader.TYPE_BITMAPDATE]]></content>
+    <tabTrigger>LLoader.TYPE_BITMAPDATE</tabTrigger>
+    <scope>source.js</scope>
+    <description>LLoader</description>
+</snippet>

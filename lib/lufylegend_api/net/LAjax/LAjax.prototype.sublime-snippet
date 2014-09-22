@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LAjax.prototype]]></content>
+    <tabTrigger>LAjax.prototype</tabTrigger>
+    <scope>source.js</scope>
+    <description>LAjax</description>
+</snippet>

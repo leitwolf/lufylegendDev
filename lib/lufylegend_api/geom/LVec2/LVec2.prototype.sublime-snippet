@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LVec2.prototype]]></content>
+    <tabTrigger>LVec2.prototype</tabTrigger>
+    <scope>source.js</scope>
+    <description>LVec2</description>
+</snippet>

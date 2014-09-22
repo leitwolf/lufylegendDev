@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LGlobal.window]]></content>
+    <tabTrigger>LGlobal.window</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGlobal</description>
+</snippet>

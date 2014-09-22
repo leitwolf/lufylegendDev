@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LGlobal.backgroundColor]]></content>
+    <tabTrigger>LGlobal.backgroundColor</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGlobal</description>
+</snippet>

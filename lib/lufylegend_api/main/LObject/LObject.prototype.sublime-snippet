@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LObject.prototype]]></content>
+    <tabTrigger>LObject.prototype</tabTrigger>
+    <scope>source.js</scope>
+    <description>LObject</description>
+</snippet>

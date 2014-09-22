@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LMatrix.prototype]]></content>
+    <tabTrigger>LMatrix.prototype</tabTrigger>
+    <scope>source.js</scope>
+    <description>LMatrix</description>
+</snippet>

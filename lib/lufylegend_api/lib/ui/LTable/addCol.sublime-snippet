@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addCol()]]></content>
+    <tabTrigger>addCol()</tabTrigger>
+    <scope>source.js</scope>
+    <description>LTable</description>
+</snippet>

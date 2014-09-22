@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[saveMode]]></content>
-    <tabTrigger>saveMode</tabTrigger>
-    <scope>source.js</scope>
-    <description>LAnimationTimeline</description>
-</snippet>

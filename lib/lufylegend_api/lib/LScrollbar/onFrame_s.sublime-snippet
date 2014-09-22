@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[onFrame(${1:s})]]></content>
-    <tabTrigger>onFrame(s)</tabTrigger>
-    <scope>source.js</scope>
-    <description>LScrollbar</description>
-</snippet>

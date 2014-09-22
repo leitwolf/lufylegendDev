@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LGlobal.stageScale]]></content>
+    <tabTrigger>LGlobal.stageScale</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGlobal</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LGlobal.IS_MOUSE_DOWN]]></content>
+    <tabTrigger>LGlobal.IS_MOUSE_DOWN</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGlobal</description>
+</snippet>

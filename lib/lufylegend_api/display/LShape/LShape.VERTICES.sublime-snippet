@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LShape.VERTICES]]></content>
+    <tabTrigger>LShape.VERTICES</tabTrigger>
+    <scope>source.js</scope>
+    <description>LShape</description>
+</snippet>

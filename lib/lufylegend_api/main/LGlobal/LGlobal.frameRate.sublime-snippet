@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LGlobal.frameRate]]></content>
+    <tabTrigger>LGlobal.frameRate</tabTrigger>
+    <scope>source.js</scope>
+    <description>LGlobal</description>
+</snippet>
