@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[colorTransform(${1:rect}, ${2:colorTransform})]]></content>
+    <tabTrigger>colorTransform(rect, colorTransform)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBitmapData</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[copyPixels(${1:sourceBitmapData}, ${2:sourceRect}, ${3:destPoint})]]></content>
+    <tabTrigger>copyPixels(sourceBitmapData, sourceRect, destPoint)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBitmapData</description>
+</snippet>

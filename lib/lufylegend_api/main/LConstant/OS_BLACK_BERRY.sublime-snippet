@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[OS_BLACK_BERRY]]></content>
+    <tabTrigger>OS_BLACK_BERRY</tabTrigger>
+    <scope>source.js</scope>
+    <description>LConstant</description>
+</snippet>

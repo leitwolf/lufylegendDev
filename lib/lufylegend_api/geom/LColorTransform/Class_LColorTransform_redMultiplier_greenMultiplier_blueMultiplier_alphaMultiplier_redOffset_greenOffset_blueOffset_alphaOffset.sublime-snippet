@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LColorTransform(${1:redMultiplier}, ${2:greenMultiplier}, ${3:blueMultiplier}, ${4:alphaMultiplier}, ${5:redOffset}, ${6:greenOffset}, ${7:blueOffset}, ${8:alphaOffset})]]></content>
+    <tabTrigger>LColorTransform(redMultiplier, greenMultiplier, blueMultiplier, alphaMultiplier, redOffset, greenOffset, blueOffset, alphaOffset)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LColorTransform</description>
+</snippet>

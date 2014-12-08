@@ -1,4 +1,4 @@
-lufylegendDev
+lufylegendDev ver 1.9.7
 =========
 
 Powerful lufylegend develop plugin for sublime text 2/3

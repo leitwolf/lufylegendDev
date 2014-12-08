@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[draw(${1:source}, ${2:matrix}, ${3:colorTransform}, ${4:blendMode}, ${5:clipRect})]]></content>
+    <tabTrigger>draw(source, matrix, colorTransform, blendMode, clipRect)</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBitmapData</description>
+</snippet>

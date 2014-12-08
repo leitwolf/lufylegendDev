@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[stop]]></content>
+    <tabTrigger>stop</tabTrigger>
+    <scope>source.js</scope>
+    <description>LBox2d</description>
+</snippet>

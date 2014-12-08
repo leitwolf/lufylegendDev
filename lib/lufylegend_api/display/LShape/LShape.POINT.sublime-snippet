@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LShape.POINT]]></content>
+    <tabTrigger>LShape.POINT</tabTrigger>
+    <scope>source.js</scope>
+    <description>LShape</description>
+</snippet>

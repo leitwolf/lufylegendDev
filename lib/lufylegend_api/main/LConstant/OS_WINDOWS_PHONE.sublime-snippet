@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[OS_WINDOWS_PHONE]]></content>
+    <tabTrigger>OS_WINDOWS_PHONE</tabTrigger>
+    <scope>source.js</scope>
+    <description>LConstant</description>
+</snippet>
